@@ -1,7 +1,10 @@
 URL,Name,Latest Price,Change Abs,Change Pct,Last Updated,Error
-https://unlistedzone.com/shares/zepto-share-price-buy-sell-unlisted-shares/,Zepto Unlisted Shares (Equity),40,0.00,0.00,2026-06-10 02:58:20,
-https://unlistedzone.com/shares/polymatech-unlisted-shares/,Polymatech Unlisted Shares,54,0.00,0.00,2026-06-10 02:58:20,
-https://unlistedzone.com/shares/nse-india-limited-unlisted-shares/,NSE India Limited Unlisted Shares,2015,0.00,0.00,2026-06-10 02:58:20,
-https://unlistedzone.com/shares/oravel-stays-limited-oyo-unlisted-shares/,ORAVEL STAYS LIMITED (Oyo Unlisted Shares),24.5,0.00,0.00,2026-06-10 02:58:20,
-https://unlistedzone.com/shares/msei-share-price-buy-sell-unlisted-shares-of-msei-metropolitan-stock-exchange/,Metropolitan Stock Exchange (MSEI) Unlisted Shares,5.95,0.00,0.00,2026-06-10 02:58:20,
-https://unlistedzone.com/shares/indian-gas-exchange-share-price-buy-sell-online/,Indian Gas Exchange Limited,410,0.00,0.00,2026-06-10 02:58:20,
+https://unlistedzone.com/shares/zepto-share-price-buy-sell-unlisted-shares/,Zepto Unlisted Shares (Equity),40,0.00,0.00,2026-06-10 16:57:51,
+https://unlistedzone.com/shares/polymatech-unlisted-shares/,Polymatech Unlisted Shares,54,0.00,0.00,2026-06-10 16:57:51,
+https://unlistedzone.com/shares/nse-india-limited-unlisted-shares/,NSE India Limited Unlisted Shares,2015,0.00,0.00,2026-06-10 16:57:51,"Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to ""https://unlistedzone.com/shares/nse-india-limited-unlisted-shares/"", waiting until ""domcontentloaded""
+"
+https://unlistedzone.com/shares/oravel-stays-limited-oyo-unlisted-shares/,ORAVEL STAYS LIMITED (Oyo Unlisted Shares),24.5,0.00,0.00,2026-06-10 16:57:51,
+https://unlistedzone.com/shares/msei-share-price-buy-sell-unlisted-shares-of-msei-metropolitan-stock-exchange/,Metropolitan Stock Exchange (MSEI) Unlisted Shares,5.95,0.00,0.00,2026-06-10 16:57:51,
+https://unlistedzone.com/shares/indian-gas-exchange-share-price-buy-sell-online/,Indian Gas Exchange Limited,410,0.00,0.00,2026-06-10 16:57:51,
