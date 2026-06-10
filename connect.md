@@ -26,18 +26,18 @@ Whenever the GitHub Action runs (twice daily for priority stocks, every 3 days f
 
 If you are an AI Agent trying to integrate this data into another application, follow these guidelines:
 
-1. **Accessing the Data:** Do not try to clone the repo or run the Python scraper. Fetch the CSV via the GitHub API using a Personal Access Token (PAT).
+1. **Accessing the Data:** Do not try to clone the repo or run the Python scraper. Simply fetch the raw CSV from GitHub over HTTP.
 2. **The URL:** The endpoint is `https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>/main/prices.csv`.
-3. **Authentication:** You MUST pass an HTTP header: `Authorization: token YOUR_GITHUB_PAT`.
-4. **Caching:** Because the data updates at most twice a day, you should aggressively cache the CSV in your target application.
+3. **Caching:** Because the data updates at most twice a day, you should aggressively cache the CSV in your target application (e.g., using Next.js `fetch` cache, Redis, or an in-memory cron job) rather than fetching it from GitHub on every user request.
+4. **Primary Key:** Use the `URL` or `Name` column to map the unlisted stocks to the internal database of the target application.
 
 ---
 
 ## 💻 For Developers (Code Integrations)
 
-Because your repository is Private, you must generate a **Personal Access Token (Classic)** in GitHub (Settings > Developer Settings > Personal access tokens) with the `repo` scope.
+Because your repository is Public, fetching the data is incredibly simple and requires no authentication.
 
-Here are examples of how to pull this live data into your own codebase.
+Here are examples of how to pull this live data into your own codebase. Replace the URL with your repository's raw CSV link.
 
 ### Node.js / Next.js (TypeScript)
 
@@ -45,13 +45,9 @@ Here are examples of how to pull this live data into your own codebase.
 import Papa from 'papaparse';
 
 const CSV_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/prices.csv";
-const GITHUB_PAT = process.env.GITHUB_PAT; // Store this in your .env file
 
 export async function fetchUnlistedPrices() {
   const response = await fetch(CSV_URL, {
-    headers: {
-      'Authorization': `token ${GITHUB_PAT}`
-    },
     next: { revalidate: 3600 } // Cache for 1 hour
   });
   
@@ -68,20 +64,12 @@ export async function fetchUnlistedPrices() {
 
 ```python
 import pandas as pd
-import requests
-import io
-import os
 
 CSV_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/prices.csv"
-GITHUB_PAT = os.environ.get("GITHUB_PAT")
 
 def get_latest_prices():
-    # Fetch with authentication header
-    response = requests.get(CSV_URL, headers={"Authorization": f"token {GITHUB_PAT}"})
-    response.raise_for_status()
-    
-    # Parse into Pandas
-    df = pd.read_csv(io.StringIO(response.text))
+    # Pandas can read CSVs directly from raw URLs!
+    df = pd.read_csv(CSV_URL)
     
     # Example: Get the price for Zepto
     zepto_row = df[df['Name'].str.contains('Zepto', case=False, na=False)]
@@ -95,38 +83,11 @@ def get_latest_prices():
 
 ## 📊 For Non-Technical Users (Google Sheets)
 
-Because your repository is Private, the simple `=IMPORTDATA()` formula will not work. Instead, you need to add a quick custom script to your Google Sheet to pass the authentication token.
+If you just want to view this data live in a Google Sheet without writing any code, Google Sheets has a built-in function to sync live CSVs from the internet.
 
-1. Open your Google Sheet.
-2. In the top menu, click **Extensions > Apps Script**.
-3. Delete any code there and paste this:
-
-```javascript
-function importPrivateGitHubCSV() {
-  const GITHUB_USERNAME = "YOUR_USERNAME";
-  const REPO_NAME = "YOUR_REPO";
-  const GITHUB_PAT = "YOUR_GITHUB_PAT_TOKEN"; // Keep this secret!
-  
-  const url = `https://raw.githubusercontent.com/${GITHUB_USERNAME}/${REPO_NAME}/main/prices.csv`;
-  
-  const options = {
-    "method": "get",
-    "headers": {
-      "Authorization": `token ${GITHUB_PAT}`
-    }
-  };
-  
-  const response = UrlFetchApp.fetch(url, options);
-  const csvText = response.getContentText();
-  const csvData = Utilities.parseCsv(csvText);
-  
-  // Write to the active sheet
-  const sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
-  sheet.clear(); // Clear old data
-  sheet.getRange(1, 1, csvData.length, csvData[0].length).setValues(csvData);
-}
-```
-
-4. Update the variables (`YOUR_USERNAME`, `YOUR_REPO`, and `YOUR_GITHUB_PAT_TOKEN`) at the top of the script.
-5. Click the **Save** icon 💾, then click **Run** ▶️.
-6. *Optional:* To make it update automatically, click the **Triggers** icon (looks like an alarm clock ⏰) on the left sidebar in Apps Script, and set it to run `importPrivateGitHubCSV` every 12 hours!
+1. Open a blank Google Sheet.
+2. Click on cell `A1`.
+3. Paste the following formula (replace the URL with your raw GitHub URL):
+   `=IMPORTDATA("https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/prices.csv")`
+4. Hit Enter. The entire sheet will instantly populate with the live data.
+5. *Note: Google Sheets automatically refreshes `IMPORTDATA` every hour.*
