@@ -4,21 +4,25 @@ This document explains how developers, AI agents, and non-technical users can co
 
 ## The Data Source
 
-The single source of truth produced by this scraper is the `prices.csv` file located in the root of this repository. 
+The single source of truth produced by this scraper is the `stocks_data.json` file located in the root of this repository. 
 
-Whenever the GitHub Action runs (twice daily for priority stocks, every 3 days for all stocks), it commits the latest scraped prices directly to this file. 
+Whenever the GitHub Action runs, it commits the latest scraped data from UnlistedZone and SharesCart directly to this JSON file. 
 
-### Data Schema (`prices.csv`)
+### Data Schema (`stocks_data.json`)
 
-| Column Name | Type | Description |
+The file is a dictionary where the keys are the unique `slug` of the stock. Each object contains:
+
+| Field | Type | Description |
 | :--- | :--- | :--- |
-| `URL` | String | The unique UnlistedZone URL of the stock (acts as the primary key). |
-| `Name` | String | The human-readable name of the company. |
-| `Latest Price` | Float | The current unlisted stock price in INR (e.g., `450.50`). |
-| `Change Abs` | Float | The absolute price change (e.g., `+10` or `-5.5`). |
-| `Change Pct` | Float | The percentage price change (e.g., `+2.3` or `-1.2`). |
-| `Last Updated` | Datetime | The exact timestamp this row was last scraped (`YYYY-MM-DD HH:MM:SS` UTC). |
-| `Error` | String | If a scrape failed, the error message will be recorded here. Usually empty. |
+| `slug` | String | The unique slug identifier for the stock. |
+| `company` | String | The human-readable name of the company. |
+| `price` | Float | The primary stock price in INR (typically from UnlistedZone). |
+| `backup_price` | Float | A secondary price point in INR (merged from SharesCart via fuzzy match). |
+| `market_cap` | Float | The market capitalization. |
+| `pe` | Float | Price to Earnings ratio. |
+| `source` | String | The primary source of the data (e.g. `unlistedzone` or `sharescart`). |
+| `updated_at` | String | ISO timestamp of the last successful scrape. |
+| `documents` | Array | Relevant PDFs or reports attached to the stock profile. |
 
 ---
 
@@ -26,10 +30,9 @@ Whenever the GitHub Action runs (twice daily for priority stocks, every 3 days f
 
 If you are an AI Agent trying to integrate this data into another application, follow these guidelines:
 
-1. **Accessing the Data:** Do not try to clone the repo or run the Python scraper. Simply fetch the raw CSV from GitHub over HTTP.
-2. **The URL:** The endpoint is `https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>/main/prices.csv`.
-3. **Caching:** Because the data updates at most twice a day, you should aggressively cache the CSV in your target application (e.g., using Next.js `fetch` cache, Redis, or an in-memory cron job) rather than fetching it from GitHub on every user request.
-4. **Primary Key:** Use the `URL` or `Name` column to map the unlisted stocks to the internal database of the target application.
+1. **Accessing the Data:** Do not try to clone the repo or run the Python scraper. Simply fetch the raw JSON from GitHub over HTTP.
+2. **The URL:** The endpoint is `https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>/main/stocks_data.json`.
+3. **Caching:** Because the data updates at scheduled intervals, you should aggressively cache the JSON in your target application (e.g., using Next.js `fetch` cache, Redis, or an in-memory cron job).
 
 ---
 
@@ -37,57 +40,47 @@ If you are an AI Agent trying to integrate this data into another application, f
 
 Because your repository is Public, fetching the data is incredibly simple and requires no authentication.
 
-Here are examples of how to pull this live data into your own codebase. Replace the URL with your repository's raw CSV link.
+Here are examples of how to pull this live data into your own codebase. Replace the URL with your repository's raw JSON link.
 
 ### Node.js / Next.js (TypeScript)
 
 ```typescript
-import Papa from 'papaparse';
-
-const CSV_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/prices.csv";
+const JSON_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/stocks_data.json";
 
 export async function fetchUnlistedPrices() {
-  const response = await fetch(CSV_URL, {
+  const response = await fetch(JSON_URL, {
     next: { revalidate: 3600 } // Cache for 1 hour
   });
   
   if (!response.ok) throw new Error("Failed to fetch prices");
   
-  const csvText = await response.text();
-  const parsed = Papa.parse(csvText, { header: true, dynamicTyping: true });
+  const data = await response.json();
   
-  return parsed.data; // Array of objects matching the CSV schema
+  // Convert object to array if needed
+  return Object.values(data); 
 }
 ```
 
-### Python (Pandas)
+### Python (Requests / Pandas)
 
 ```python
+import requests
 import pandas as pd
 
-CSV_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/prices.csv"
+JSON_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/stocks_data.json"
 
 def get_latest_prices():
-    # Pandas can read CSVs directly from raw URLs!
-    df = pd.read_csv(CSV_URL)
+    # Fetch raw JSON directly
+    data = requests.get(JSON_URL).json()
+    
+    # Optionally convert to a Pandas DataFrame for easy filtering
+    df = pd.DataFrame.from_dict(data, orient='index')
     
     # Example: Get the price for Zepto
-    zepto_row = df[df['Name'].str.contains('Zepto', case=False, na=False)]
+    zepto_row = df[df['company'].str.contains('Zepto', case=False, na=False)]
     if not zepto_row.empty:
-        print(f"Zepto Price: ₹{zepto_row.iloc[0]['Latest Price']}")
+        print(f"Zepto Price: ₹{zepto_row.iloc[0]['price']}")
+        print(f"SharesCart Backup Price: ₹{zepto_row.iloc[0].get('backup_price')}")
         
     return df
 ```
-
----
-
-## 📊 For Non-Technical Users (Google Sheets)
-
-If you just want to view this data live in a Google Sheet without writing any code, Google Sheets has a built-in function to sync live CSVs from the internet.
-
-1. Open a blank Google Sheet.
-2. Click on cell `A1`.
-3. Paste the following formula (replace the URL with your raw GitHub URL):
-   `=IMPORTDATA("https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/prices.csv")`
-4. Hit Enter. The entire sheet will instantly populate with the live data.
-5. *Note: Google Sheets automatically refreshes `IMPORTDATA` every hour.*
