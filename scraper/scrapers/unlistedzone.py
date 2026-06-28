@@ -69,7 +69,7 @@ def scrape_detail(url, page, mode="all"):
     mode="all" gets fundamentals.
     """
     data = {"source": "unlistedzone"}
-    slug = url.split("/shares/")[-2] if url.endswith("/") else url.split("/shares/")[-1]
+    slug = url.rstrip("/").split("/")[-1]
     data["slug"] = slug
 
     try:

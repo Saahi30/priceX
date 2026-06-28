@@ -1,7 +1,130 @@
 {
-    "https://unlistedzone.com": {
+    "zepto-share-price-buy-sell-unlisted-shares": {
+        "company": "Zepto Unlisted Shares (Equity)",
+        "slug": "zepto-share-price-buy-sell-unlisted-shares",
+        "price": 39.0,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {},
+        "source": "unlistedzone",
+        "updated_at": "2026-06-29T01:48:18.902833",
+        "backup_price": 39.0
+    },
+    "polymatech-unlisted-shares": {
+        "company": "Polymatech Unlisted Shares",
+        "slug": "polymatech-unlisted-shares",
+        "price": 54.0,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {},
+        "source": "unlistedzone",
+        "updated_at": "2026-06-29T01:48:18.902833",
+        "backup_price": 54.0
+    },
+    "nse-india-limited-unlisted-shares": {
+        "company": "NSE India Limited Unlisted Shares",
+        "slug": "nse-india-limited-unlisted-shares",
+        "price": 2115.0,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {},
+        "source": "unlistedzone",
+        "updated_at": "2026-06-29T01:48:18.902833",
+        "backup_price": 2115.0
+    },
+    "oravel-stays-limited-oyo-unlisted-shares": {
+        "company": "ORAVEL STAYS LIMITED (Oyo Unlisted Shares)",
+        "slug": "oravel-stays-limited-oyo-unlisted-shares",
+        "price": 25.0,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {},
+        "source": "unlistedzone",
+        "updated_at": "2026-06-29T01:48:18.902833"
+    },
+    "msei-share-price-buy-sell-unlisted-shares-of-msei-metropolitan-stock-exchange": {
+        "company": "Metropolitan Stock Exchange (MSEI) Unlisted Shares",
+        "slug": "msei-share-price-buy-sell-unlisted-shares-of-msei-metropolitan-stock-exchange",
+        "price": 5.95,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {},
+        "source": "unlistedzone",
+        "updated_at": "2026-06-29T01:48:18.902833"
+    },
+    "indian-gas-exchange-share-price-buy-sell-online": {
         "company": "Indian Gas Exchange Limited",
-        "slug": "https://unlistedzone.com",
+        "slug": "indian-gas-exchange-share-price-buy-sell-online",
         "price": 415.0,
         "market_cap": null,
         "sector": null,
@@ -21,176 +144,7 @@
         "documents": [],
         "extra_data": {},
         "source": "unlistedzone",
-        "updated_at": "2026-06-29T00:39:02.904631"
-    },
-    "zepto-share-price-buy-sell-unlisted-shares": {
-        "company": "OOPs !! 404You've Lost Your Way",
-        "slug": "zepto-share-price-buy-sell-unlisted-shares",
-        "price": null,
-        "market_cap": null,
-        "sector": null,
-        "industry": null,
-        "face_value": null,
-        "isin": null,
-        "pe": null,
-        "eps": null,
-        "book_value": null,
-        "roe": null,
-        "roce": null,
-        "revenue": null,
-        "profit": null,
-        "enterprise_value": null,
-        "logo": null,
-        "description": null,
-        "documents": [],
-        "extra_data": {},
-        "source": "sharescart",
-        "updated_at": "2026-06-28T22:31:12.747311"
-    },
-    "polymatech-unlisted-shares": {
-        "company": "OOPs !! 404You've Lost Your Way",
-        "slug": "polymatech-unlisted-shares",
-        "price": null,
-        "market_cap": null,
-        "sector": null,
-        "industry": null,
-        "face_value": null,
-        "isin": null,
-        "pe": null,
-        "eps": null,
-        "book_value": null,
-        "roe": null,
-        "roce": null,
-        "revenue": null,
-        "profit": null,
-        "enterprise_value": null,
-        "logo": null,
-        "description": null,
-        "documents": [],
-        "extra_data": {},
-        "source": "sharescart",
-        "updated_at": "2026-06-28T22:31:12.747311"
-    },
-    "nse-india-limited-unlisted-shares": {
-        "company": "OOPs !! 404You've Lost Your Way",
-        "slug": "nse-india-limited-unlisted-shares",
-        "price": null,
-        "market_cap": null,
-        "sector": null,
-        "industry": null,
-        "face_value": null,
-        "isin": null,
-        "pe": null,
-        "eps": null,
-        "book_value": null,
-        "roe": null,
-        "roce": null,
-        "revenue": null,
-        "profit": null,
-        "enterprise_value": null,
-        "logo": null,
-        "description": null,
-        "documents": [],
-        "extra_data": {},
-        "source": "sharescart",
-        "updated_at": "2026-06-28T22:31:12.747311"
-    },
-    "oravel-stays-limited-oyo-unlisted-shares": {
-        "company": "OOPs !! 404You've Lost Your Way",
-        "slug": "oravel-stays-limited-oyo-unlisted-shares",
-        "price": null,
-        "market_cap": null,
-        "sector": null,
-        "industry": null,
-        "face_value": null,
-        "isin": null,
-        "pe": null,
-        "eps": null,
-        "book_value": null,
-        "roe": null,
-        "roce": null,
-        "revenue": null,
-        "profit": null,
-        "enterprise_value": null,
-        "logo": null,
-        "description": null,
-        "documents": [],
-        "extra_data": {},
-        "source": "sharescart",
-        "updated_at": "2026-06-28T22:31:12.747311"
-    },
-    "msei-share-price-buy-sell-unlisted-shares-of-msei-metropolitan-stock-exchange": {
-        "company": "OOPs !! 404You've Lost Your Way",
-        "slug": "msei-share-price-buy-sell-unlisted-shares-of-msei-metropolitan-stock-exchange",
-        "price": null,
-        "market_cap": null,
-        "sector": null,
-        "industry": null,
-        "face_value": null,
-        "isin": null,
-        "pe": null,
-        "eps": null,
-        "book_value": null,
-        "roe": null,
-        "roce": null,
-        "revenue": null,
-        "profit": null,
-        "enterprise_value": null,
-        "logo": null,
-        "description": null,
-        "documents": [],
-        "extra_data": {},
-        "source": "sharescart",
-        "updated_at": "2026-06-28T22:31:12.747311"
-    },
-    "indian-gas-exchange-share-price-buy-sell-online": {
-        "company": "OOPs !! 404You've Lost Your Way",
-        "slug": "indian-gas-exchange-share-price-buy-sell-online",
-        "price": null,
-        "market_cap": null,
-        "sector": null,
-        "industry": null,
-        "face_value": null,
-        "isin": null,
-        "pe": null,
-        "eps": null,
-        "book_value": null,
-        "roe": null,
-        "roce": null,
-        "revenue": null,
-        "profit": null,
-        "enterprise_value": null,
-        "logo": null,
-        "description": null,
-        "documents": [],
-        "extra_data": {},
-        "source": "sharescart",
-        "updated_at": "2026-06-28T22:31:12.747311"
-    },
-    "nse": {
-        "company": "NSE",
-        "slug": "nse",
-        "price": 2115.0,
-        "market_cap": null,
-        "sector": null,
-        "industry": null,
-        "face_value": null,
-        "isin": null,
-        "pe": null,
-        "eps": null,
-        "book_value": null,
-        "roe": null,
-        "roce": null,
-        "revenue": null,
-        "profit": null,
-        "enterprise_value": null,
-        "logo": null,
-        "description": null,
-        "documents": [],
-        "extra_data": {},
-        "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
-        "backup_price": 2115.0
+        "updated_at": "2026-06-29T01:48:18.902833"
     },
     "sbi-mutual-fund": {
         "company": "SBI Mutual Fund",
@@ -212,9 +166,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "174,298",
+            "P/E": "68.6"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 858.0
     },
     "nayara-energy": {
@@ -237,9 +194,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "160,235",
+            "P/E": "26.4"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 1075.0
     },
     "hdfc-securities": {
@@ -262,9 +222,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "151,002",
+            "P/E": "163"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 8450.0
     },
     "swiggy-ccps": {
@@ -287,9 +250,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "88,699",
+            "P/E": "-37.7"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 574410.0
     },
     "zepto-ccps-series-d": {
@@ -312,9 +278,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "88,326",
+            "P/E": "-70.7"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 129825.0
     },
     "zepto-ccps-series-ii-g": {
@@ -337,9 +306,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "68,895",
+            "P/E": "-55.2"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 30913.2
     },
     "capgemini-technology": {
@@ -362,9 +334,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "64,608",
+            "P/E": "17.9"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 10950.0
     },
     "inox-clean-energy": {
@@ -387,9 +362,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "63,117",
+            "P/E": "2360.3"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 695.0
     },
     "ab-inbev-sabmiller": {
@@ -412,35 +390,13 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "49,669",
+            "P/E": "-70.4"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 535.0
-    },
-    "zepto": {
-        "company": "Zepto",
-        "slug": "zepto",
-        "price": 39.0,
-        "market_cap": null,
-        "sector": null,
-        "industry": null,
-        "face_value": null,
-        "isin": null,
-        "pe": null,
-        "eps": null,
-        "book_value": null,
-        "roe": null,
-        "roce": null,
-        "revenue": null,
-        "profit": null,
-        "enterprise_value": null,
-        "logo": null,
-        "description": null,
-        "documents": [],
-        "extra_data": {},
-        "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
-        "backup_price": 39.0
     },
     "oyo": {
         "company": "OYO",
@@ -462,9 +418,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "35,033",
+            "P/E": "143.1"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 25.0
     },
     "goa-shipyard": {
@@ -487,9 +446,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "31,137",
+            "P/E": "108"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 2675.0
     },
     "gfcl-ev-product-ltd": {
@@ -512,9 +474,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "29,549",
+            "P/E": "-1094.2"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 40.0
     },
     "sbi-general-insurance": {
@@ -537,9 +502,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "25,689",
+            "P/E": "46.5"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 1150.0
     },
     "cial": {
@@ -562,9 +530,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "21,902",
+            "P/E": "42.5"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 458.0
     },
     "big-basket": {
@@ -587,9 +558,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "21,782",
+            "P/E": "-15.4"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 1950.0
     },
     "jupiter-international": {
@@ -612,9 +586,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "16,994",
+            "P/E": "409.5"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 228.0
     },
     "indusind-general-insurance": {
@@ -637,9 +614,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "15,404",
+            "P/E": "48.8"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 575.0
     },
     "inox-leasing-and-finance-limited": {
@@ -662,9 +642,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "14,355",
+            "P/E": "15.1"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 14500.0
     },
     "parag-parikh-financial-advisory-services": {
@@ -687,9 +670,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "13,814",
+            "P/E": "56"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 17950.0
     },
     "care-health-insurance": {
@@ -712,9 +698,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "13,345",
+            "P/E": "1097.4"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 134.0
     },
     "hinduja-leyland-finance": {
@@ -737,9 +726,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "12,868",
+            "P/E": "48.4"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 236.0
     },
     "hero-fincorp": {
@@ -762,9 +754,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "12,639",
+            "P/E": "-55.9"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 975.0
     },
     "hero-motors-ltd": {
@@ -787,9 +782,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "12,062",
+            "P/E": "367.8"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 318.0
     },
     "boat": {
@@ -812,9 +810,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "11,742",
+            "P/E": "192.2"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 895.0
     },
     "incred-holdings": {
@@ -837,9 +838,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "10,012",
+            "P/E": "26.8"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 156.0
     },
     "csk": {
@@ -862,9 +866,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "9,713",
+            "P/E": "65.5"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 256.0
     },
     "pharmeasy": {
@@ -887,9 +894,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "9,538",
+            "P/E": "-6.1"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 5.6
     },
     "shriram-life-insurance": {
@@ -912,9 +922,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "9,406",
+            "P/E": "59.5"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 525.0
     },
     "inox-renewable-solutions": {
@@ -937,9 +950,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "9,312",
+            "P/E": "512"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 575.0
     },
     "manjushree-technopack": {
@@ -962,9 +978,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "9,201",
+            "P/E": "65.4"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 975.0
     },
     "taparia-tools-ltd": {
@@ -987,9 +1006,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "9,183",
+            "P/E": "75"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 6050.0
     },
     "manipal-cards": {
@@ -1012,9 +1034,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "8,561",
+            "P/E": "46.8"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 385.0
     },
     "hella-infra-market": {
@@ -1037,9 +1062,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "8,389",
+            "P/E": "38.2"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 73500.0
     },
     "indian-potash": {
@@ -1062,9 +1090,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "7,793",
+            "P/E": "4.7"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 2725.0
     },
     "sterlite-electric-ltd": {
@@ -1087,9 +1118,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "7,688",
+            "P/E": "42"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 545.0
     },
     "ask-investment-managers-ltd": {
@@ -1112,9 +1146,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "7,624",
+            "P/E": "17.2"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 875.0
     },
     "motilal-oswal": {
@@ -1137,9 +1174,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "7,263",
+            "P/E": "45.7"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 12.0
     },
     "electrosteel-steel-ltd": {
@@ -1162,9 +1202,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "7,026",
+            "P/E": "-26.4"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 38.0
     },
     "elcid-investments": {
@@ -1187,9 +1230,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "7,000",
+            "P/E": "39.8"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 350000.0
     },
     "msei": {
@@ -1212,9 +1258,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "6,545",
+            "P/E": "-253.3"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 6.0
     },
     "philips-india": {
@@ -1237,9 +1286,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "6,327",
+            "P/E": "20.5"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 1100.0
     },
     "signify-innovations": {
@@ -1262,9 +1314,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "6,183",
+            "P/E": "22.9"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 1075.0
     },
     "fincare-small-finance-bank": {
@@ -1287,9 +1342,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "5,616",
+            "P/E": "633.1"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 260.0
     },
     "carrier-airconditioning": {
@@ -1312,9 +1370,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "5,478",
+            "P/E": "27.1"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 515.0
     },
     "esds-software": {
@@ -1337,9 +1398,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "5,242",
+            "P/E": "94.3"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 522.0
     },
     "ticker-ltd": {
@@ -1362,9 +1426,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "4,898",
+            "P/E": "-95.5"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 28.0
     },
     "orbis-financial": {
@@ -1387,9 +1454,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "4,820",
+            "P/E": "23.6"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 388.0
     },
     "otis-elevator": {
@@ -1412,9 +1482,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "4,546",
+            "P/E": "31"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 3850.0
     },
     "philips-domestic-appliances": {
@@ -1437,9 +1510,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "4,314",
+            "P/E": "34.6"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 750.0
     },
     "ikf-finance": {
@@ -1462,9 +1538,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "4,017",
+            "P/E": "28.1"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 214.0
     },
     "arohan-financial": {
@@ -1487,9 +1566,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "3,623",
+            "P/E": "33"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 228.0
     },
     "indofil-industries": {
@@ -1512,9 +1594,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "3,203",
+            "P/E": "8.4"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 1395.0
     },
     "ncdex": {
@@ -1537,9 +1622,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "3,184",
+            "P/E": "-68.9"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 355.0
     },
     "pxil": {
@@ -1562,9 +1650,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "3,128",
+            "P/E": "90.6"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 535.0
     },
     "bharat-bank": {
@@ -1587,9 +1678,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "3,099",
+            "P/E": "174.1"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 10800.0
     },
     "royalcare-super-speciality-hospital": {
@@ -1612,9 +1706,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "3,019",
+            "P/E": "200.6"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 160.0
     },
     "merino-industries": {
@@ -1637,9 +1734,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "2,879",
+            "P/E": "-393.1"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 2575.0
     },
     "veeda-clinical-research-limited": {
@@ -1662,9 +1762,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "2,815",
+            "P/E": "-42.1"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 428.0
     },
     "lava": {
@@ -1687,9 +1790,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "2,652",
+            "P/E": "78.3"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 49.0
     },
     "kineco-limited": {
@@ -1712,9 +1818,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "2,229",
+            "P/E": "290.7"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 3095.0
     },
     "garuda-aerospace": {
@@ -1737,9 +1846,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "2,216",
+            "P/E": "128.3"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 425.0
     },
     "skyways-air-services-ltd": {
@@ -1762,9 +1874,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "2,209",
+            "P/E": "64"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 152.0
     },
     "gkn-driveline": {
@@ -1787,35 +1902,13 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "2,203",
+            "P/E": "22.7"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 1725.0
-    },
-    "polymatech-electronics-pvt-ltd": {
-        "company": "Polymatech Electronics Pvt Ltd",
-        "slug": "polymatech-electronics-pvt-ltd",
-        "price": 54.0,
-        "market_cap": null,
-        "sector": null,
-        "industry": null,
-        "face_value": null,
-        "isin": null,
-        "pe": null,
-        "eps": null,
-        "book_value": null,
-        "roe": null,
-        "roce": null,
-        "revenue": null,
-        "profit": null,
-        "enterprise_value": null,
-        "logo": null,
-        "description": null,
-        "documents": [],
-        "extra_data": {},
-        "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
-        "backup_price": 54.0
     },
     "mohan-meakin": {
         "company": "Mohan Meakin",
@@ -1837,9 +1930,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "2,085",
+            "P/E": "13.3"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 2450.0
     },
     "schneider-electric": {
@@ -1862,9 +1958,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "2,026",
+            "P/E": "53.7"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 1675.0
     },
     "goodluck-defence": {
@@ -1887,9 +1986,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "2,004",
+            "P/E": "516.6"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 408.0
     },
     "kannur-international-airport": {
@@ -1912,9 +2014,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "1,686",
+            "P/E": "-18"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 126.0
     },
     "kurlon-ent": {
@@ -1937,9 +2042,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "1,644",
+            "P/E": "-3.2"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 450.0
     },
     "a-one-steels": {
@@ -1962,9 +2070,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "1,534",
+            "P/E": "39.4"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 224.0
     },
     "innov8-workspaces-india-ltd": {
@@ -1987,9 +2098,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "1,475",
+            "P/E": "39.1"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 58.0
     },
     "zenith-holidays": {
@@ -2012,9 +2126,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "1,432",
+            "P/E": "55.4"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 650.0
     },
     "hpx-india": {
@@ -2037,9 +2154,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "1,409",
+            "P/E": "132.1"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 25.5
     },
     "lords-mark-industries": {
@@ -2062,9 +2182,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "1,335",
+            "P/E": "118.2"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 74.0
     },
     "axles-india": {
@@ -2087,9 +2210,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "1,313",
+            "P/E": "17.9"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 515.0
     },
     "utkarsh-core-invest": {
@@ -2112,9 +2238,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "1,242",
+            "P/E": "-2.9"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 125.0
     },
     "kanara-consumer-products-ltd-previously-known-as-kurlon-ltd": {
@@ -2137,9 +2266,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "1,237",
+            "P/E": "-221.5"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 875.0
     },
     "fino-paytech-limited": {
@@ -2162,9 +2294,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "1,150",
+            "P/E": "11.8"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 110.0
     },
     "maverick-simulation": {
@@ -2187,9 +2322,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "1,106",
+            "P/E": "55.5"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 2325.0
     },
     "transline-technologies": {
@@ -2212,9 +2350,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "1,097",
+            "P/E": "22.7"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 124.0
     },
     "s3v-vascular": {
@@ -2237,9 +2378,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "1,084",
+            "P/E": "-339"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 565.0
     },
     "hindon-mercantile-ltd": {
@@ -2262,9 +2406,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "1,073",
+            "P/E": "58"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 725.0
     },
     "goodluck-green-energy": {
@@ -2287,9 +2434,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "1,035",
+            "P/E": "594.9"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 112.0
     },
     "insolare-energy": {
@@ -2312,9 +2462,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "1,012",
+            "P/E": "59.4"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 172.0
     },
     "av-thomas": {
@@ -2337,9 +2490,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "1,003",
+            "P/E": "15.7"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 22000.0
     },
     "solar91-cleantech": {
@@ -2362,9 +2518,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "994",
+            "P/E": "381.6"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 475.0
     },
     "lakeshore-hospital": {
@@ -2387,9 +2546,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "990",
+            "P/E": "25.3"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 99.0
     },
     "honeywell-electrical-devices-and-systems": {
@@ -2412,9 +2574,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "809",
+            "P/E": "70.7"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 8500.0
     },
     "greenzo-energy-pvt-ltd": {
@@ -2437,9 +2602,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "802",
+            "P/E": "579.2"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 578.0
     },
     "bootes-impex-tech-ltd": {
@@ -2462,9 +2630,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "661",
+            "P/E": "18.6"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 785.0
     },
     "berar-finance-ltd": {
@@ -2487,9 +2658,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "652",
+            "P/E": "20.2"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 435.0
     },
     "onix-renewable": {
@@ -2512,9 +2686,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "644",
+            "P/E": "5.6"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 60.0
     },
     "ring-plus": {
@@ -2537,9 +2714,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "539",
+            "P/E": "10.5"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 695.0
     },
     "xtranet-technologies-pvt-ltd": {
@@ -2562,9 +2742,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "501",
+            "P/E": "16.7"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 128.0
     },
     "apollo-green-energy": {
@@ -2587,9 +2770,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "479",
+            "P/E": "14.2"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 118.0
     },
     "klm-axiva-finvest": {
@@ -2612,9 +2798,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "475",
+            "P/E": "53.6"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 18.0
     },
     "oyo-assets": {
@@ -2637,9 +2826,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "437",
+            "P/E": "-1549.3"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 8.5
     },
     "bira": {
@@ -2662,9 +2854,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "401",
+            "P/E": "-0.5"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.903843",
         "backup_price": 60.0
     },
     "nerl": {
@@ -2687,9 +2882,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "397",
+            "P/E": "99.7"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 49.0
     },
     "urban-tots": {
@@ -2712,9 +2910,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "380",
+            "P/E": "33.6"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 68.0
     },
     "inkel-ltd": {
@@ -2737,9 +2938,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "373",
+            "P/E": "12.3"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 21.0
     },
     "martin-and-harris-lab": {
@@ -2762,9 +2966,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "358",
+            "P/E": "8.8"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 895.0
     },
     "mkcl": {
@@ -2787,9 +2994,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "352",
+            "P/E": "12.1"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 435.0
     },
     "spray-engineering-devices": {
@@ -2812,9 +3022,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "321",
+            "P/E": "21.4"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 128.0
     },
     "policyx": {
@@ -2837,9 +3050,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "300",
+            "P/E": "162.5"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 63.0
     },
     "empire-spices-and-foods-ltd": {
@@ -2862,9 +3078,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "264",
+            "P/E": "19.3"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 550.0
     },
     "india-carbon-ltd": {
@@ -2887,9 +3106,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "237",
+            "P/E": "7.8"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 895.0
     },
     "hcin-network": {
@@ -2912,9 +3134,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "225",
+            "P/E": "30.5"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 175.0
     },
     "resins-and-plastic": {
@@ -2937,9 +3162,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "207",
+            "P/E": "17.8"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 495.0
     },
     "ncl-buildtek": {
@@ -2962,9 +3190,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "199",
+            "P/E": "4.5"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 172.0
     },
     "maxvalue-credits-and-investments": {
@@ -2987,9 +3218,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "197",
+            "P/E": "18.9"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 5.5
     },
     "anugraha-valve-castings-ltd": {
@@ -3012,9 +3246,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "196",
+            "P/E": "9.5"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 555.0
     },
     "cheelizza-pizza-india-ltd": {
@@ -3037,9 +3274,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "184",
+            "P/E": "-46.8"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 16.0
     },
     "gamma-rotors": {
@@ -3062,9 +3302,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "178",
+            "P/E": "117.7"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 138.0
     },
     "icl-fincorp": {
@@ -3087,9 +3330,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "175",
+            "P/E": "19.1"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 25.0
     },
     "ramaraju-surgical-cotton": {
@@ -3112,9 +3358,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "160",
+            "P/E": "-3.7"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 275.0
     },
     "quality-enviro": {
@@ -3137,9 +3386,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "159",
+            "P/E": "62.4"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 1350.0
     },
     "fusion-techstack-limited-formerly-known-as-icex": {
@@ -3162,9 +3414,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "139",
+            "P/E": "125.7"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 2.6
     },
     "assam-carbon-products": {
@@ -3187,9 +3442,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "117",
+            "P/E": "14.2"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 425.0
     },
     "downtown-hospital-ltd": {
@@ -3212,9 +3470,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "113",
+            "P/E": "18.3"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 375.0
     },
     "ecosure-pulpmolding": {
@@ -3237,9 +3498,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "104",
+            "P/E": "16.4"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 29.0
     },
     "rrp-s4e-innovation": {
@@ -3262,9 +3526,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "102",
+            "P/E": "7.9"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 148.0
     },
     "machint-solutions": {
@@ -3287,9 +3554,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "101",
+            "P/E": "5.8"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 74.0
     },
     "amol-minechem-ltd": {
@@ -3312,9 +3582,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "74",
+            "P/E": "6.2"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 900.0
     },
     "zak-venture": {
@@ -3337,9 +3610,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "73",
+            "P/E": "477"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 165.0
     },
     "silverline-technologies-ltd": {
@@ -3362,9 +3638,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "72",
+            "P/E": "6272.1"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 12.0
     },
     "bazar-india": {
@@ -3387,9 +3666,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "72",
+            "P/E": "74.8"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 24.0
     },
     "ncl-holdings": {
@@ -3412,9 +3694,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "63",
+            "P/E": "3.7"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 108.0
     },
     "market-simplified": {
@@ -3437,9 +3722,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "56",
+            "P/E": "34.9"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 26.0
     },
     "madbow": {
@@ -3462,9 +3750,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "54",
+            "P/E": "271.4"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 35.0
     },
     "shivchem-agro-limited": {
@@ -3487,9 +3778,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "40",
+            "P/E": "1.5"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 76.0
     },
     "matrix-gas-and-renewables": {
@@ -3512,9 +3806,12 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "Market Cap": "20",
+            "P/E": "0.5"
+        },
         "source": "sharescart",
-        "updated_at": "2026-06-28T23:56:53.328130",
+        "updated_at": "2026-06-29T01:48:18.905853",
         "backup_price": 7.5
     }
 }

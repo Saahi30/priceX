@@ -16,6 +16,15 @@ on:
         options:
         - high-priority
         - all
+      source:
+        description: 'Source to scrape (all, unlistedzone, sharescart)'
+        required: true
+        default: 'all'
+        type: choice
+        options:
+        - all
+        - unlistedzone
+        - sharescart
 
 jobs:
   scrape:
@@ -43,14 +52,17 @@ jobs:
           # If triggered manually, use the input mode. Otherwise, determine by cron.
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             MODE="${{ github.event.inputs.mode }}"
+            SOURCE="${{ github.event.inputs.source }}"
           elif [ "${{ github.event.schedule }}" = "0 0 */3 * *" ]; then
             MODE="all"
+            SOURCE="all"
           else
             MODE="high-priority"
+            SOURCE="all"
           fi
           
-          echo "Running scraper with mode: $MODE"
-          python -m scraper.main --mode $MODE
+          echo "Running scraper with mode: $MODE, source: $SOURCE"
+          python -m scraper.main --mode $MODE --source $SOURCE
         env:
           PRIORITY_STOCKS: ${{ secrets.PRIORITY_STOCKS }}
 
