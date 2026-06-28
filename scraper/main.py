@@ -4,18 +4,15 @@ from scraper.config import load_priority_stocks
 from scraper.storage import upsert_stocks
 from scraper.normalizer import normalize_stock
 
-# Import scrapers as they become available
 from scraper.scrapers.unlistedzone import scrape_unlistedzone
 from scraper.scrapers.sharescart import scrape_sharescart
-from scraper.scrapers.precize import scrape_precize
-from scraper.scrapers.planify import scrape_planify
-from scraper.scrapers.stockify import scrape_stockify
-from scraper.scrapers.altius import scrape_altius
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--mode", choices=["high-priority", "all"], required=True, 
                         help="Scrape only priority stocks or all stocks.")
+    parser.add_argument("--source", choices=["unlistedzone", "sharescart", "all"], default="all",
+                        help="Scrape a specific source or all active sources.")
     args = parser.parse_args()
     
     priority_slugs = []
@@ -35,35 +32,15 @@ def main():
 
     all_raw_stocks = []
     
-    # 1. Scrape UnlistedZone
-    print("\n--- Scraping UnlistedZone ---")
-    uz_stocks = scrape_unlistedzone(mode=args.mode, priority_slugs=priority_slugs)
-    all_raw_stocks.extend(uz_stocks)
-    
-    # 2. Scrape SharesCart
-    print("\n--- Scraping SharesCart ---")
-    sc_stocks = scrape_sharescart(mode=args.mode, priority_slugs=priority_slugs)
-    all_raw_stocks.extend(sc_stocks)
-    
-    # 3. Scrape Precize
-    print("\n--- Scraping Precize ---")
-    pr_stocks = scrape_precize(mode=args.mode, priority_slugs=priority_slugs)
-    all_raw_stocks.extend(pr_stocks)
-    
-    # 4. Scrape Planify
-    print("\n--- Scraping Planify ---")
-    pl_stocks = scrape_planify(mode=args.mode, priority_slugs=priority_slugs)
-    all_raw_stocks.extend(pl_stocks)
-    
-    # 5. Scrape Stockify
-    print("\n--- Scraping Stockify ---")
-    st_stocks = scrape_stockify(mode=args.mode, priority_slugs=priority_slugs)
-    all_raw_stocks.extend(st_stocks)
-    
-    # 6. Scrape Altius
-    print("\n--- Scraping Altius Investech ---")
-    al_stocks = scrape_altius(mode=args.mode, priority_slugs=priority_slugs)
-    all_raw_stocks.extend(al_stocks)
+    if args.source in ["unlistedzone", "all"]:
+        print("\n--- Scraping UnlistedZone ---")
+        uz_stocks = scrape_unlistedzone(mode=args.mode, priority_slugs=priority_slugs)
+        all_raw_stocks.extend(uz_stocks)
+        
+    if args.source in ["sharescart", "all"]:
+        print("\n--- Scraping SharesCart ---")
+        sc_stocks = scrape_sharescart(mode=args.mode, priority_slugs=priority_slugs)
+        all_raw_stocks.extend(sc_stocks)
     
     # Normalize
     normalized_stocks = []
