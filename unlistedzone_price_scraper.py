@@ -215,7 +215,7 @@ def main():
                 print(f"ERR: {scraped['Error'][:40]}")
             else:
                 price = scraped.get("Latest Price", "N/A")
-                print(f"OK (Price: ₹{price})")
+                print(f"OK (Price: Rs. {price})")
                 
             scraped["Last Updated"] = timestamp
             
