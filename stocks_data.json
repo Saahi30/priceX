@@ -19,9 +19,11 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "s what investors need to know": "Transition to Listed Market Tax Rates"
+        },
         "source": "unlistedzone",
-        "updated_at": "2026-06-29T01:48:18.902833",
+        "updated_at": "2026-07-01T02:32:22.811307",
         "backup_price": 39.0
     },
     "polymatech-unlisted-shares": {
@@ -50,7 +52,7 @@
         "backup_price": 54.0
     },
     "nse-india-limited-unlisted-shares": {
-        "company": "NSE India Limited Unlisted Shares",
+        "company": "NSE India Limited",
         "slug": "nse-india-limited-unlisted-shares",
         "price": 2115.0,
         "market_cap": null,
@@ -71,7 +73,7 @@
         "documents": [],
         "extra_data": {},
         "source": "unlistedzone",
-        "updated_at": "2026-06-29T01:48:18.902833",
+        "updated_at": "2026-07-01T02:32:22.811291",
         "backup_price": 2115.0
     },
     "oravel-stays-limited-oyo-unlisted-shares": {
@@ -99,7 +101,7 @@
         "updated_at": "2026-06-29T01:48:18.902833"
     },
     "msei-share-price-buy-sell-unlisted-shares-of-msei-metropolitan-stock-exchange": {
-        "company": "Metropolitan Stock Exchange (MSEI) Unlisted Shares",
+        "company": "Metropolitan Stock Exchange (MSEI)",
         "slug": "msei-share-price-buy-sell-unlisted-shares-of-msei-metropolitan-stock-exchange",
         "price": 5.95,
         "market_cap": null,
@@ -118,9 +120,11 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "s what investors need to know": "Transition to Listed Market Tax Rates"
+        },
         "source": "unlistedzone",
-        "updated_at": "2026-06-29T01:48:18.902833"
+        "updated_at": "2026-07-01T02:32:22.811274"
     },
     "indian-gas-exchange-share-price-buy-sell-online": {
         "company": "Indian Gas Exchange Limited",
@@ -536,7 +540,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 458.0
+        "backup_price": 465.0
     },
     "big-basket": {
         "company": "Big Basket",
@@ -648,7 +652,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 14500.0
+        "backup_price": 16500.0
     },
     "parag-parikh-financial-advisory-services": {
         "company": "Parag Parikh Financial Advisory Services",
@@ -704,7 +708,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 134.0
+        "backup_price": 136.0
     },
     "hinduja-leyland-finance": {
         "company": "Hinduja Leyland Finance",
@@ -1600,7 +1604,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 1395.0
+        "backup_price": 1425.0
     },
     "ncdex": {
         "company": "NCDEX",
@@ -1628,7 +1632,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 355.0
+        "backup_price": 360.0
     },
     "pxil": {
         "company": "PXIL",
@@ -2412,7 +2416,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 725.0
+        "backup_price": 755.0
     },
     "goodluck-green-energy": {
         "company": "Goodluck Green Energy",
@@ -2552,7 +2556,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 99.0
+        "backup_price": 106.0
     },
     "honeywell-electrical-devices-and-systems": {
         "company": "Honeywell Electrical Devices and Systems",
@@ -2776,7 +2780,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 118.0
+        "backup_price": 114.0
     },
     "klm-axiva-finvest": {
         "company": "KLM Axiva Finvest",
@@ -2888,7 +2892,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.905853",
-        "backup_price": 49.0
+        "backup_price": 48.0
     },
     "urban-tots": {
         "company": "Urban Tots",
@@ -3308,7 +3312,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.905853",
-        "backup_price": 138.0
+        "backup_price": 142.0
     },
     "icl-fincorp": {
         "company": "ICL Fincorp",
@@ -3812,6 +3816,486 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.905853",
-        "backup_price": 7.5
+        "backup_price": 6.5
+    },
+    "sbi-mutual-fund-unlisted-shares": {
+        "company": "SBI Mutual Fund",
+        "slug": "sbi-mutual-fund-unlisted-shares",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "s what investors need to know": "Transition to Listed Market Tax Rates"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-01T02:32:22.811296"
+    },
+    "hindustan-power-exchange-hpx-india-share-price-buy-sell-online": {
+        "company": "Hindustan Power Exchange Limited (HPX India)",
+        "slug": "hindustan-power-exchange-hpx-india-share-price-buy-sell-online",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "s what investors need to know": "Transition to Listed Market Tax Rates"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-01T02:32:22.811298"
+    },
+    "onix-renewable-unlisted-shares-buy-sell-online": {
+        "company": "Onix Renewable Limited",
+        "slug": "onix-renewable-unlisted-shares-buy-sell-online",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "There are two types of DIS Methods": "1. Offline-DIS",
+            "Calculation": "New LTCG will be calculated from 23rd July 2024 as flat rate of 12.5%. 5. Applicability",
+            "utilizing two primary methods": "Benchmark Valuation Based on Latest Funding",
+            "Provide Basic KYC Documents": "You only need to submit the following for name approval and compliance"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-01T02:32:22.811300"
+    },
+    "gfcl-ev-products-share-price-buy-sell-online": {
+        "company": "GFCL EV Products Limited",
+        "slug": "gfcl-ev-products-share-price-buy-sell-online",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "s what investors need to know": "Transition to Listed Market Tax Rates"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-01T02:32:22.811301"
+    },
+    "gh2-solar-share-price-buy-sell-online": {
+        "company": "GH2 Solar Limited",
+        "slug": "gh2-solar-share-price-buy-sell-online",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "s what investors need to know": "Transition to Listed Market Tax Rates"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-01T02:32:22.811303"
+    },
+    "hinduja-leyland-finance-share-price-buy-sell-online": {
+        "company": "Hinduja Leyland Finance Limited",
+        "slug": "hinduja-leyland-finance-share-price-buy-sell-online",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "particularly in": "Vehicle Financing",
+            "Loan Against Property (LAP)": "Leveraging real estate collateral for credit. Portfolio Buyouts",
+            "There are two types of DIS Methods": "1. Offline-DIS",
+            "Calculation": "New LTCG will be calculated from 23rd July 2024 as flat rate of 12.5%. 5. Applicability",
+            "utilizing two primary methods": "Benchmark Valuation Based on Latest Funding",
+            "Provide Basic KYC Documents": "You only need to submit the following for name approval and compliance"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-01T02:32:22.811312"
+    },
+    "buy-sell-cochin-international-airport-shares-for-sale-share-price-shareholders": {
+        "company": "Cochin International Airport Limited",
+        "slug": "buy-sell-cochin-international-airport-shares-for-sale-share-price-shareholders",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "s what investors need to know": "Transition to Listed Market Tax Rates"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-01T02:32:22.811314"
+    },
+    "csk-share-price-buy-sell-unlisted-shares": {
+        "company": "CSK",
+        "slug": "csk-share-price-buy-sell-unlisted-shares",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "s what investors need to know": "Transition to Listed Market Tax Rates"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-01T02:32:22.811316"
+    },
+    "parag-parikh-financial-advisory-services-share-price-buy-sell-online": {
+        "company": "Parag Parikh Financial Advisory Services Ltd. (PPFAS)",
+        "slug": "parag-parikh-financial-advisory-services-share-price-buy-sell-online",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "s what investors need to know": "Transition to Listed Market Tax Rates",
+            "(PPFAS) in your account": "1. Using NSDL or CDSL Applications"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-01T02:32:22.811317"
+    },
+    "buy-sell-share-price-aspire-home-finance-corporation-unlisted-shares": {
+        "company": "Motilal Oswal Home Finance Limited",
+        "slug": "buy-sell-share-price-aspire-home-finance-corporation-unlisted-shares",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "s what investors need to know": "Transition to Listed Market Tax Rates"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-01T02:32:22.811319"
+    },
+    "national-commodity-derivatives-exchange-ncdex-limited-unlisted-shares": {
+        "company": "National Commodity & Derivatives Exchange (NCDEX) Limited",
+        "slug": "national-commodity-derivatives-exchange-ncdex-limited-unlisted-shares",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "s what investors need to know": "Transition to Listed Market Tax Rates"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-01T02:32:22.811320"
+    },
+    "kineco-limited-unlisted-share": {
+        "company": "Kineco Limited",
+        "slug": "kineco-limited-unlisted-share",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "There are two types of DIS Methods": "1. Offline-DIS",
+            "Calculation": "New LTCG will be calculated from 23rd July 2024 as flat rate of 12.5%. 5. Applicability",
+            "utilizing two primary methods": "Benchmark Valuation Based on Latest Funding",
+            "Provide Basic KYC Documents": "You only need to submit the following for name approval and compliance"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-01T02:32:22.811321"
+    },
+    "apollo-green-energy-limited-unlisted-shares": {
+        "company": "Apollo Green Energy Limited",
+        "slug": "apollo-green-energy-limited-unlisted-shares",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "s what investors need to know": "Transition to Listed Market Tax Rates"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-01T02:32:22.811322"
+    },
+    "mohan-meakin-limited-share-price-buy-sell-mohan-meakin-unlisted-shares": {
+        "company": "Mohan Meakin Limited",
+        "slug": "mohan-meakin-limited-share-price-buy-sell-mohan-meakin-unlisted-shares",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "s what investors need to know": "Transition to Listed Market Tax Rates"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-01T02:32:22.811324"
+    },
+    "ambadi-investments-murugappa-share-price-buy-sell-online": {
+        "company": "Ambadi Investments Limited (murugappa)",
+        "slug": "ambadi-investments-murugappa-share-price-buy-sell-online",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "s what investors need to know": "Transition to Listed Market Tax Rates"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-01T02:32:22.811325"
+    },
+    "amol-minechem-unlisted-shares-buy-sell-online": {
+        "company": "Amol Minechem Limited",
+        "slug": "amol-minechem-unlisted-shares-buy-sell-online",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "s what investors need to know": "Transition to Listed Market Tax Rates"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-01T02:32:22.811326"
+    },
+    "amrut-dredging-and-shipping-share-price-buy-sell-online": {
+        "company": "Amrut Dredging And Shipping Limited",
+        "slug": "amrut-dredging-and-shipping-share-price-buy-sell-online",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "s what investors need to know": "Transition to Listed Market Tax Rates"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-01T02:32:22.811327"
+    },
+    "anglo-french-drugs-industries-share-price-buy-sell-online": {
+        "company": "Anglo-French Drugs & Industries Ltd",
+        "slug": "anglo-french-drugs-industries-share-price-buy-sell-online",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "s what investors need to know": "Transition to Listed Market Tax Rates"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-01T02:32:22.811329"
     }
 }
