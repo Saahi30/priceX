@@ -4,25 +4,23 @@ This document explains how developers, AI agents, and non-technical users can co
 
 ## The Data Source
 
-The single source of truth produced by this scraper is the `stocks_data.json` file located in the root of this repository. 
+The single source of truth produced for external consumption by this scraper is the `api/v1/stocks.json` file. 
 
-Whenever the GitHub Action runs, it commits the latest scraped data from UnlistedZone and SharesCart directly to this JSON file. 
+Whenever the GitHub Action runs, it commits the latest scraped data, which is automatically served as a fast, static API via GitHub Pages.
 
-### Data Schema (`stocks_data.json`)
+### Data Schema (`api/v1/stocks.json`)
 
-The file is a dictionary where the keys are the unique `slug` of the stock. Each object contains:
+The file is a JSON array of objects (identical to Pandas `orient='records'`). Each object contains:
 
 | Field | Type | Description |
 | :--- | :--- | :--- |
-| `slug` | String | The unique slug identifier for the stock. |
-| `company` | String | The human-readable name of the company. |
-| `price` | Float | The primary stock price in INR (typically from UnlistedZone). |
-| `backup_price` | Float | A secondary price point in INR (merged from SharesCart via fuzzy match). |
-| `market_cap` | Float | The market capitalization. |
-| `pe` | Float | Price to Earnings ratio. |
-| `source` | String | The primary source of the data (e.g. `unlistedzone` or `sharescart`). |
-| `updated_at` | String | ISO timestamp of the last successful scrape. |
-| `documents` | Array | Relevant PDFs or reports attached to the stock profile. |
+| `URL` | String | The URL of the stock on the primary platform. |
+| `Name` | String | The human-readable name of the company. |
+| `Latest Price` | Float/String | The primary stock price in INR. |
+| `Change Abs` | String | Absolute price change. |
+| `Change Pct` | String | Percentage price change. |
+| `Last Updated` | String | Timestamp of the last successful scrape. |
+| `Error` | String | Any error encountered during scraping. |
 
 ---
 
@@ -30,22 +28,22 @@ The file is a dictionary where the keys are the unique `slug` of the stock. Each
 
 If you are an AI Agent trying to integrate this data into another application, follow these guidelines:
 
-1. **Accessing the Data:** Do not try to clone the repo or run the Python scraper. Simply fetch the raw JSON from GitHub over HTTP.
-2. **The URL:** The endpoint is `https://raw.githubusercontent.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>/main/stocks_data.json`.
+1. **Accessing the Data:** Do not try to clone the repo or run the Python scraper. Simply fetch the raw JSON from GitHub Pages over HTTP.
+2. **The URL:** The endpoint is `https://<YOUR_GITHUB_USERNAME>.github.io/<YOUR_REPO_NAME>/api/v1/stocks.json`.
 3. **Caching:** Because the data updates at scheduled intervals, you should aggressively cache the JSON in your target application (e.g., using Next.js `fetch` cache, Redis, or an in-memory cron job).
 
 ---
 
 ## 💻 For Developers (Code Integrations)
 
-Because your repository is Public, fetching the data is incredibly simple and requires no authentication.
+Because this is served via GitHub Pages, fetching the data is incredibly simple, fast, and requires no authentication.
 
-Here are examples of how to pull this live data into your own codebase. Replace the URL with your repository's raw JSON link.
+Here are examples of how to pull this live data into your own codebase. Replace the URL with your repository's GitHub Pages link.
 
 ### Node.js / Next.js (TypeScript)
 
 ```typescript
-const JSON_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/stocks_data.json";
+const JSON_URL = "https://YOUR_USERNAME.github.io/YOUR_REPO/api/v1/stocks.json";
 
 export async function fetchUnlistedPrices() {
   const response = await fetch(JSON_URL, {
@@ -56,8 +54,8 @@ export async function fetchUnlistedPrices() {
   
   const data = await response.json();
   
-  // Convert object to array if needed
-  return Object.values(data); 
+  // Data is already an array of records
+  return data; 
 }
 ```
 
@@ -67,20 +65,19 @@ export async function fetchUnlistedPrices() {
 import requests
 import pandas as pd
 
-JSON_URL = "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/stocks_data.json"
+JSON_URL = "https://YOUR_USERNAME.github.io/YOUR_REPO/api/v1/stocks.json"
 
 def get_latest_prices():
-    # Fetch raw JSON directly
+    # Fetch JSON directly
     data = requests.get(JSON_URL).json()
     
-    # Optionally convert to a Pandas DataFrame for easy filtering
-    df = pd.DataFrame.from_dict(data, orient='index')
+    # Load into a Pandas DataFrame
+    df = pd.DataFrame(data)
     
     # Example: Get the price for Zepto
-    zepto_row = df[df['company'].str.contains('Zepto', case=False, na=False)]
+    zepto_row = df[df['Name'].str.contains('Zepto', case=False, na=False)]
     if not zepto_row.empty:
-        print(f"Zepto Price: ₹{zepto_row.iloc[0]['price']}")
-        print(f"SharesCart Backup Price: ₹{zepto_row.iloc[0].get('backup_price')}")
+        print(f"Zepto Price: ₹{zepto_row.iloc[0]['Latest Price']}")
         
     return df
 ```

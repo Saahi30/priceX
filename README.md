@@ -64,6 +64,7 @@ To get this running on your own GitHub:
 
 ## Accessing the Data
 
-Your external tools and frontend dashboards can access the latest prices at any time by fetching the raw JSON URL:
-`https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/stocks_data.json`
-*(If your repository is private, you will need to generate a Personal Access Token to pass in the Authorization header).*
+Your external tools and frontend dashboards can access the latest prices at any time by fetching the static API served via GitHub Pages:
+`https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/api/v1/stocks.json`
+
+For more detailed examples and the exact data schema, please see the [Integration Guide](connect.md).
