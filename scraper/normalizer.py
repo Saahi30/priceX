@@ -50,7 +50,8 @@ def normalize_stock(raw_stock):
         "description": raw_stock.get("description"),
         "documents": raw_stock.get("documents", []),
         "extra_data": raw_stock.get("extra_data", {}),
-        "source": raw_stock.get("source")
+        "source": raw_stock.get("source"),
+        "url": raw_stock.get("url")
     }
     
     return normalized

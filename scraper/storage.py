@@ -1,7 +1,7 @@
 import json
 import re
 from datetime import datetime
-from scraper.config import DATA_FILE
+from scraper.config import DATA_FILE, BASE_DIR
 
 def load_data():
     if DATA_FILE.exists():
@@ -35,13 +35,25 @@ def upsert_stocks(scraped_stocks):
     upserted_count = 0
     new_count = 0
     
+    from scraper.mapping import SHARESCART_TO_UNLISTEDZONE
+    from scraper.normalizer import slugify
+    
     for stock in scraped_stocks:
+        source = stock.get("source")
+        
+        # Apply explicit mapping for SharesCart -> UnlistedZone
+        if source == "sharescart":
+            company_name = stock.get("company", "")
+            if company_name in SHARESCART_TO_UNLISTEDZONE:
+                mapped_name = SHARESCART_TO_UNLISTEDZONE[company_name]
+                stock["company"] = mapped_name
+                stock["slug"] = slugify(mapped_name)
+
         slug = stock.get("slug")
         if not slug:
             continue
             
         stock["updated_at"] = datetime.now().isoformat()
-        source = stock.get("source")
         
         # If Sharescart (the backup), try to fuzzy-match against UnlistedZone
         if source == "sharescart":
@@ -86,4 +98,29 @@ def upsert_stocks(scraped_stocks):
             new_count += 1
             
     save_data(existing_data)
+    export_prices_json(existing_data)
     return new_count, upserted_count
+
+def export_prices_json(existing_data):
+    api_dir = BASE_DIR / "api" / "v1"
+    api_dir.mkdir(parents=True, exist_ok=True)
+    json_path = api_dir / "stocks.json"
+    
+    records = []
+    for slug, data in existing_data.items():
+        last_updated = data.get("updated_at", "")
+        if last_updated:
+            last_updated = last_updated.replace("T", " ")[:19]
+            
+        records.append({
+            "URL": data.get("url", ""),
+            "Name": data.get("company", ""),
+            "Latest Price": data.get("price", ""),
+            "Change Abs": data.get("change_abs", "0.00"),
+            "Change Pct": data.get("change_pct", "0.00"),
+            "Last Updated": last_updated,
+            "Error": data.get("error", "")
+        })
+        
+    with open(json_path, mode="w", encoding="utf-8") as f:
+        json.dump(records, f, indent=4, ensure_ascii=False)
