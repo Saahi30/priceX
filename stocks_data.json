@@ -23,11 +23,11 @@
             "s what investors need to know": "Transition to Listed Market Tax Rates"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811307",
+        "updated_at": "2026-07-04T01:55:14.685187",
         "backup_price": 39.0
     },
     "polymatech-unlisted-shares": {
-        "company": "Polymatech Unlisted Shares",
+        "company": "Polymatech",
         "slug": "polymatech-unlisted-shares",
         "price": 54.0,
         "market_cap": null,
@@ -46,9 +46,14 @@
         "logo": null,
         "description": null,
         "documents": [],
-        "extra_data": {},
+        "extra_data": {
+            "There are two types of DIS Methods": "1. Offline-DIS",
+            "Calculation": "New LTCG will be calculated from 23rd July 2024 as flat rate of 12.5%. 5. Applicability",
+            "utilizing two primary methods": "Benchmark Valuation Based on Latest Funding",
+            "Provide Basic KYC Documents": "You only need to submit the following for name approval and compliance"
+        },
         "source": "unlistedzone",
-        "updated_at": "2026-06-29T01:48:18.902833",
+        "updated_at": "2026-07-04T01:55:14.685210",
         "backup_price": 54.0
     },
     "nse-india-limited-unlisted-shares": {
@@ -70,11 +75,20 @@
         "enterprise_value": null,
         "logo": null,
         "description": null,
-        "documents": [],
-        "extra_data": {},
+        "documents": [
+            {
+                "title": "12 Jun 2026 NSE IPO 2026: Price, Valuation, Financials & How It Compares With BSE Read more →",
+                "url": "https://unlistedzone.com/nse-ipo-2026-price-valuation-financials-how-it-compares-with-bse"
+            }
+        ],
+        "extra_data": {
+            "Calculation": "New LTCG will be calculated from 23rd July 2024 as flat rate of 12.5%. 5. Applicability",
+            "Provide Basic KYC Documents": "You only need to submit the following for name approval and compliance",
+            "12 Jun 2026 NSE IPO 2026": "Price, Valuation, Financials & How It Compares With BSE Read more → 02 May 2026 NSE Q4 FY26 Results"
+        },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811291",
-        "backup_price": 2115.0
+        "updated_at": "2026-07-04T01:55:14.685165",
+        "backup_price": 2145.0
     },
     "oravel-stays-limited-oyo-unlisted-shares": {
         "company": "ORAVEL STAYS LIMITED (Oyo Unlisted Shares)",
@@ -95,10 +109,20 @@
         "enterprise_value": null,
         "logo": null,
         "description": null,
-        "documents": [],
-        "extra_data": {},
+        "documents": [
+            {
+                "title": "30 Aug 2025 OYO IPO News | Business Model, Hotels vs Homes, Innov8 Growth & Financials Read more →",
+                "url": "https://unlistedzone.com/oyo-ipo-news-business-model-hotels-vs-homes-innov8-growth-financials"
+            }
+        ],
+        "extra_data": {
+            "There are two types of DIS Methods": "1. Offline-DIS",
+            "Calculation": "New LTCG will be calculated from 23rd July 2024 as flat rate of 12.5%. 5. Applicability",
+            "utilizing two primary methods": "Benchmark Valuation Based on Latest Funding",
+            "Provide Basic KYC Documents": "You only need to submit the following for name approval and compliance"
+        },
         "source": "unlistedzone",
-        "updated_at": "2026-06-29T01:48:18.902833"
+        "updated_at": "2026-07-04T01:55:14.685192"
     },
     "msei-share-price-buy-sell-unlisted-shares-of-msei-metropolitan-stock-exchange": {
         "company": "Metropolitan Stock Exchange (MSEI)",
@@ -121,10 +145,13 @@
         "description": null,
         "documents": [],
         "extra_data": {
-            "s what investors need to know": "Transition to Listed Market Tax Rates"
+            "There are two types of DIS Methods": "1. Offline-DIS",
+            "Calculation": "New LTCG will be calculated from 23rd July 2024 as flat rate of 12.5%. 5. Applicability",
+            "utilizing two primary methods": "Benchmark Valuation Based on Latest Funding",
+            "Provide Basic KYC Documents": "You only need to submit the following for name approval and compliance"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811274"
+        "updated_at": "2026-07-04T01:55:14.685150"
     },
     "indian-gas-exchange-share-price-buy-sell-online": {
         "company": "Indian Gas Exchange Limited",
@@ -176,7 +203,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 858.0
+        "backup_price": 828.0
     },
     "nayara-energy": {
         "company": "Nayara Energy",
@@ -372,7 +399,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 695.0
+        "backup_price": 785.0
     },
     "ab-inbev-sabmiller": {
         "company": "AB Inbev Sabmiller",
@@ -400,7 +427,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 535.0
+        "backup_price": 555.0
     },
     "oyo": {
         "company": "OYO",
@@ -652,7 +679,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 16500.0
+        "backup_price": 16800.0
     },
     "parag-parikh-financial-advisory-services": {
         "company": "Parag Parikh Financial Advisory Services",
@@ -708,7 +735,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 136.0
+        "backup_price": 138.0
     },
     "hinduja-leyland-finance": {
         "company": "Hinduja Leyland Finance",
@@ -736,7 +763,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 236.0
+        "backup_price": 235.0
     },
     "hero-fincorp": {
         "company": "Hero Fincorp",
@@ -848,7 +875,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 156.0
+        "backup_price": 158.0
     },
     "csk": {
         "company": "CSK",
@@ -1072,7 +1099,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 73500.0
+        "backup_price": 77500.0
     },
     "indian-potash": {
         "company": "Indian Potash",
@@ -1128,7 +1155,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 545.0
+        "backup_price": 538.0
     },
     "ask-investment-managers-ltd": {
         "company": "ASK Investment Managers Ltd",
@@ -1464,7 +1491,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 388.0
+        "backup_price": 385.0
     },
     "otis-elevator": {
         "company": "Otis Elevator",
@@ -1604,7 +1631,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 1425.0
+        "backup_price": 1445.0
     },
     "ncdex": {
         "company": "NCDEX",
@@ -1632,7 +1659,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 360.0
+        "backup_price": 365.0
     },
     "pxil": {
         "company": "PXIL",
@@ -1660,7 +1687,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 535.0
+        "backup_price": 515.0
     },
     "bharat-bank": {
         "company": "Bharat Bank",
@@ -1688,7 +1715,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 10800.0
+        "backup_price": 11200.0
     },
     "royalcare-super-speciality-hospital": {
         "company": "Royalcare Super Speciality Hospital",
@@ -1940,7 +1967,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 2450.0
+        "backup_price": 2425.0
     },
     "schneider-electric": {
         "company": "Schneider Electric",
@@ -2164,7 +2191,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 25.5
+        "backup_price": 24.5
     },
     "lords-mark-industries": {
         "company": "Lords Mark Industries",
@@ -2444,7 +2471,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 112.0
+        "backup_price": 109.0
     },
     "insolare-energy": {
         "company": "Insolare Energy",
@@ -2696,7 +2723,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 60.0
+        "backup_price": 56.0
     },
     "ring-plus": {
         "company": "Ring Plus",
@@ -2780,7 +2807,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.903843",
-        "backup_price": 114.0
+        "backup_price": 102.0
     },
     "klm-axiva-finvest": {
         "company": "KLM Axiva Finvest",
@@ -2892,7 +2919,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.905853",
-        "backup_price": 48.0
+        "backup_price": 49.0
     },
     "urban-tots": {
         "company": "Urban Tots",
@@ -3508,7 +3535,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.905853",
-        "backup_price": 29.0
+        "backup_price": 30.0
     },
     "rrp-s4e-innovation": {
         "company": "RRP S4E Innovation",
@@ -3536,7 +3563,7 @@
         },
         "source": "sharescart",
         "updated_at": "2026-06-29T01:48:18.905853",
-        "backup_price": 148.0
+        "backup_price": 152.0
     },
     "machint-solutions": {
         "company": "Machint Solutions",
@@ -3839,10 +3866,13 @@
         "description": null,
         "documents": [],
         "extra_data": {
-            "s what investors need to know": "Transition to Listed Market Tax Rates"
+            "There are two types of DIS Methods": "1. Offline-DIS",
+            "Calculation": "New LTCG will be calculated from 23rd July 2024 as flat rate of 12.5%. 5. Applicability",
+            "utilizing two primary methods": "Benchmark Valuation Based on Latest Funding",
+            "Provide Basic KYC Documents": "You only need to submit the following for name approval and compliance"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811296"
+        "updated_at": "2026-07-04T01:55:14.685169"
     },
     "hindustan-power-exchange-hpx-india-share-price-buy-sell-online": {
         "company": "Hindustan Power Exchange Limited (HPX India)",
@@ -3868,7 +3898,7 @@
             "s what investors need to know": "Transition to Listed Market Tax Rates"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811298"
+        "updated_at": "2026-07-04T01:55:14.685173"
     },
     "onix-renewable-unlisted-shares-buy-sell-online": {
         "company": "Onix Renewable Limited",
@@ -3891,13 +3921,10 @@
         "description": null,
         "documents": [],
         "extra_data": {
-            "There are two types of DIS Methods": "1. Offline-DIS",
-            "Calculation": "New LTCG will be calculated from 23rd July 2024 as flat rate of 12.5%. 5. Applicability",
-            "utilizing two primary methods": "Benchmark Valuation Based on Latest Funding",
-            "Provide Basic KYC Documents": "You only need to submit the following for name approval and compliance"
+            "s what investors need to know": "Transition to Listed Market Tax Rates"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811300"
+        "updated_at": "2026-07-04T01:55:14.685176"
     },
     "gfcl-ev-products-share-price-buy-sell-online": {
         "company": "GFCL EV Products Limited",
@@ -3920,10 +3947,11 @@
         "description": null,
         "documents": [],
         "extra_data": {
-            "s what investors need to know": "Transition to Listed Market Tax Rates"
+            "s what investors need to know": "Transition to Listed Market Tax Rates",
+            "04 Sept 2025 The Engine of Growth": "How GFCL EV is Powering the EV Transition Read more → 26 Aug 2025 Maruti Suzuki Launches E-Vitara"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811301"
+        "updated_at": "2026-07-04T01:55:14.685179"
     },
     "gh2-solar-share-price-buy-sell-online": {
         "company": "GH2 Solar Limited",
@@ -3949,7 +3977,7 @@
             "s what investors need to know": "Transition to Listed Market Tax Rates"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811303"
+        "updated_at": "2026-07-04T01:55:14.685182"
     },
     "hinduja-leyland-finance-share-price-buy-sell-online": {
         "company": "Hinduja Leyland Finance Limited",
@@ -3980,7 +4008,7 @@
             "Provide Basic KYC Documents": "You only need to submit the following for name approval and compliance"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811312"
+        "updated_at": "2026-07-04T01:55:14.685195"
     },
     "buy-sell-cochin-international-airport-shares-for-sale-share-price-shareholders": {
         "company": "Cochin International Airport Limited",
@@ -4006,7 +4034,7 @@
             "s what investors need to know": "Transition to Listed Market Tax Rates"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811314"
+        "updated_at": "2026-07-04T01:55:14.685198"
     },
     "csk-share-price-buy-sell-unlisted-shares": {
         "company": "CSK",
@@ -4032,7 +4060,7 @@
             "s what investors need to know": "Transition to Listed Market Tax Rates"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811316"
+        "updated_at": "2026-07-04T01:55:14.685202"
     },
     "parag-parikh-financial-advisory-services-share-price-buy-sell-online": {
         "company": "Parag Parikh Financial Advisory Services Ltd. (PPFAS)",
@@ -4053,13 +4081,18 @@
         "enterprise_value": null,
         "logo": null,
         "description": null,
-        "documents": [],
+        "documents": [
+            {
+                "title": "08 Jul 2025 AMC Comparison Report: In-Depth Analysis for UnlistedZone Readers Read more →",
+                "url": "https://unlistedzone.com/amc-comparison-report-in-depth-analysis-for-unlistedzone-readers"
+            }
+        ],
         "extra_data": {
             "s what investors need to know": "Transition to Listed Market Tax Rates",
             "(PPFAS) in your account": "1. Using NSDL or CDSL Applications"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811317"
+        "updated_at": "2026-07-04T01:55:14.685205"
     },
     "buy-sell-share-price-aspire-home-finance-corporation-unlisted-shares": {
         "company": "Motilal Oswal Home Finance Limited",
@@ -4085,7 +4118,7 @@
             "s what investors need to know": "Transition to Listed Market Tax Rates"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811319"
+        "updated_at": "2026-07-04T01:55:14.685208"
     },
     "national-commodity-derivatives-exchange-ncdex-limited-unlisted-shares": {
         "company": "National Commodity & Derivatives Exchange (NCDEX) Limited",
@@ -4111,7 +4144,7 @@
             "s what investors need to know": "Transition to Listed Market Tax Rates"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811320"
+        "updated_at": "2026-07-04T01:55:14.685213"
     },
     "kineco-limited-unlisted-share": {
         "company": "Kineco Limited",
@@ -4140,7 +4173,7 @@
             "Provide Basic KYC Documents": "You only need to submit the following for name approval and compliance"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811321"
+        "updated_at": "2026-07-04T01:55:14.685215"
     },
     "apollo-green-energy-limited-unlisted-shares": {
         "company": "Apollo Green Energy Limited",
@@ -4166,7 +4199,7 @@
             "s what investors need to know": "Transition to Listed Market Tax Rates"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811322"
+        "updated_at": "2026-07-04T01:55:14.685219"
     },
     "mohan-meakin-limited-share-price-buy-sell-mohan-meakin-unlisted-shares": {
         "company": "Mohan Meakin Limited",
@@ -4187,12 +4220,21 @@
         "enterprise_value": null,
         "logo": null,
         "description": null,
-        "documents": [],
+        "documents": [
+            {
+                "title": "17 Feb 2025 Mohan Meakin Limited Reports Robust Financial Performance for Q3 FY25 Read more →",
+                "url": "https://unlistedzone.com/mohan-meakin-limited-reports-robust-financial-performance-for-q3-fy25"
+            },
+            {
+                "title": "09 Aug 2024 Mohan Meakin Limited Reports Strong Q1 FY2025 Results Read more →",
+                "url": "https://unlistedzone.com/mohan-meakin-limited-reports-strong-q1-fy2025-results"
+            }
+        ],
         "extra_data": {
             "s what investors need to know": "Transition to Listed Market Tax Rates"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811324"
+        "updated_at": "2026-07-04T01:55:14.685225"
     },
     "ambadi-investments-murugappa-share-price-buy-sell-online": {
         "company": "Ambadi Investments Limited (murugappa)",
@@ -4218,7 +4260,7 @@
             "s what investors need to know": "Transition to Listed Market Tax Rates"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811325"
+        "updated_at": "2026-07-04T01:55:14.685228"
     },
     "amol-minechem-unlisted-shares-buy-sell-online": {
         "company": "Amol Minechem Limited",
@@ -4244,7 +4286,7 @@
             "s what investors need to know": "Transition to Listed Market Tax Rates"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811326"
+        "updated_at": "2026-07-04T01:55:14.685232"
     },
     "amrut-dredging-and-shipping-share-price-buy-sell-online": {
         "company": "Amrut Dredging And Shipping Limited",
@@ -4270,7 +4312,7 @@
             "s what investors need to know": "Transition to Listed Market Tax Rates"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811327"
+        "updated_at": "2026-07-04T01:55:14.685236"
     },
     "anglo-french-drugs-industries-share-price-buy-sell-online": {
         "company": "Anglo-French Drugs & Industries Ltd",
@@ -4296,6 +4338,37 @@
             "s what investors need to know": "Transition to Listed Market Tax Rates"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-07-01T02:32:22.811329"
+        "updated_at": "2026-07-04T01:55:14.685238"
+    },
+    "orbis-financial-corporation-unlisted-shares": {
+        "company": "ORBIS FINANCIAL CORPORATION",
+        "slug": "orbis-financial-corporation-unlisted-shares",
+        "price": null,
+        "market_cap": null,
+        "sector": null,
+        "industry": null,
+        "face_value": null,
+        "isin": null,
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [
+            {
+                "title": "02 Sept 2023 Analyzing Orbis Financial's FY22-23 Performance: A Comprehensive Review Read more →",
+                "url": "https://unlistedzone.com/analyzing-orbis-financials-fy22-23-performance-a-comprehensive-review"
+            }
+        ],
+        "extra_data": {
+            "s what investors need to know": "Transition to Listed Market Tax Rates"
+        },
+        "source": "unlistedzone",
+        "updated_at": "2026-07-04T01:55:14.685201"
     }
 }
