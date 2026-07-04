@@ -49,7 +49,7 @@ To get this running on your own GitHub:
    - Create a new, empty repository on GitHub.
    - Run the commands GitHub provides to push your local code:
      ```bash
-     git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+     git remote add origin https://github.com/Saahi30/priceX.git
      git branch -M main
      git push -u origin main
      ```
@@ -65,6 +65,6 @@ To get this running on your own GitHub:
 ## Accessing the Data
 
 Your external tools and frontend dashboards can access the latest prices at any time by fetching the static API served via GitHub Pages:
-`https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/api/v1/stocks.json`
+`https://Saahi30.github.io/priceX/api/v1/stocks.json`
 
 For more detailed examples and the exact data schema, please see the [Integration Guide](connect.md).

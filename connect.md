@@ -29,7 +29,7 @@ The file is a JSON array of objects (identical to Pandas `orient='records'`). Ea
 If you are an AI Agent trying to integrate this data into another application, follow these guidelines:
 
 1. **Accessing the Data:** Do not try to clone the repo or run the Python scraper. Simply fetch the raw JSON from GitHub Pages over HTTP.
-2. **The URL:** The endpoint is `https://<YOUR_GITHUB_USERNAME>.github.io/<YOUR_REPO_NAME>/api/v1/stocks.json`.
+2. **The URL:** The endpoint is `https://Saahi30.github.io/priceX/api/v1/stocks.json`.
 3. **Caching:** Because the data updates at scheduled intervals, you should aggressively cache the JSON in your target application (e.g., using Next.js `fetch` cache, Redis, or an in-memory cron job).
 
 ---
@@ -43,7 +43,7 @@ Here are examples of how to pull this live data into your own codebase. Replace 
 ### Node.js / Next.js (TypeScript)
 
 ```typescript
-const JSON_URL = "https://YOUR_USERNAME.github.io/YOUR_REPO/api/v1/stocks.json";
+const JSON_URL = "https://Saahi30.github.io/priceX/api/v1/stocks.json";
 
 export async function fetchUnlistedPrices() {
   const response = await fetch(JSON_URL, {
@@ -65,7 +65,7 @@ export async function fetchUnlistedPrices() {
 import requests
 import pandas as pd
 
-JSON_URL = "https://YOUR_USERNAME.github.io/YOUR_REPO/api/v1/stocks.json"
+JSON_URL = "https://Saahi30.github.io/priceX/api/v1/stocks.json"
 
 def get_latest_prices():
     # Fetch JSON directly
