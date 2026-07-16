@@ -1,0 +1,9 @@
+title: priceX
+description: Scraper for priceX unlisted stocks data
+repository_url: https://github.com/Saahi30/priceX
+owner: Saahi30
+repo: priceX
+
+# Disable github-metadata dependency for GitHub Pages
+plugins:
+  - jekyll-seo-tag
