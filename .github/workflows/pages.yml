@@ -30,7 +30,25 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
         
-      - name: Build with Jekyll
+      - name: Build with Jekyll (attempt 1)
+        id: jekyll_build_1
+        continue-on-error: true
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Build with Jekyll (attempt 2)
+        id: jekyll_build_2
+        if: steps.jekyll_build_1.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Build with Jekyll (attempt 3)
+        if: steps.jekyll_build_2.outcome == 'failure'
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
