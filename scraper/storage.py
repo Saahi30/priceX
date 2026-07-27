@@ -115,6 +115,7 @@ def export_prices_json(existing_data):
         records.append({
             "URL": data.get("url", ""),
             "Name": data.get("company", ""),
+            "ISIN": data.get("isin", ""),
             "Latest Price": data.get("price", ""),
             "Change Abs": data.get("change_abs", "0.00"),
             "Change Pct": data.get("change_pct", "0.00"),

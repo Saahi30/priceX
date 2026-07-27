@@ -59,6 +59,12 @@ def scrape_sharescart(mode="all", priority_slugs=None):
                     "extra_data": extra_data,
                     "documents": []
                 }
+                
+                # Extract ISIN if available
+                isin = item.get("ISIN") or item.get("UL_STOCKS_ISIN") or item.get("STOCK_ISIN") or item.get("isin")
+                if isin:
+                    data_dict["isin"] = isin
+                    
                 results.append(data_dict)
                 print(f"       -> [{len(results)}] {company}: Fetched Price: Rs. {price}")
                 log_data = {"company": company, "price": price, "source": "sharescart"}

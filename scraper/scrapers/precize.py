@@ -58,6 +58,11 @@ def scrape_detail(url, page, mode="all"):
     if pm:
         data["price"] = pm.group(1).replace(",", "")
         
+    # Try to find ISIN
+    isin_match = re.search(r"IN[A-Z0-9]{10}", page_text)
+    if isin_match:
+        data["isin"] = isin_match.group(0)
+
     if mode == "high-priority":
         return data
 
