@@ -15,6 +15,9 @@ def main():
                         help="Scrape a specific source or all active sources.")
     args = parser.parse_args()
     
+    # Always run in "all" mode, making priority stocks redundant
+    args.mode = "all"
+    
     priority_slugs = []
     if args.mode == "high-priority":
         priority_urls = load_priority_stocks()
