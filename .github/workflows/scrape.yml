@@ -11,7 +11,7 @@ on:
       mode:
         description: 'Scrape Mode (high-priority or all)'
         required: true
-        default: 'high-priority'
+        default: 'all'
         type: choice
         options:
         - high-priority
@@ -49,15 +49,12 @@ jobs:
 
       - name: Determine Mode and Run Scraper
         run: |
-          # If triggered manually, use the input mode. Otherwise, determine by cron.
+          # Always run 'all' stocks, priority mode is deprecated
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             MODE="${{ github.event.inputs.mode }}"
             SOURCE="${{ github.event.inputs.source }}"
-          elif [ "${{ github.event.schedule }}" = "0 0 */3 * *" ]; then
-            MODE="all"
-            SOURCE="all"
           else
-            MODE="high-priority"
+            MODE="all"
             SOURCE="all"
           fi
           
