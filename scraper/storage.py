@@ -1,7 +1,21 @@
 import json
-import re
 from datetime import datetime
+
 from scraper.config import DATA_FILE, BASE_DIR
+from scraper.matcher import find_unlistedzone_slug
+
+SKIP_MERGE_FIELDS = {
+    "company",
+    "slug",
+    "source",
+    "url",
+    "updated_at",
+    "price",
+    "backup_price",
+    "aliases",
+    "short_name",
+}
+
 
 def load_data():
     if DATA_FILE.exists():
@@ -12,116 +26,147 @@ def load_data():
                 pass
     return {}
 
+
 def save_data(data_dict):
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(data_dict, f, indent=4, ensure_ascii=False)
 
-def normalize_for_match(name):
-    if not name:
-        return ""
-    s = name.lower()
-    s = re.sub(r'[^a-z0-9]', '', s)
-    for w in ['limited', 'ltd', 'unlisted', 'shares', 'private', 'pvt', 'inc', 'co']:
-        s = s.replace(w, '')
-    return s
+
+def _meaningful(value):
+    return value not in (None, "", [], {})
+
+
+def _merge_sharescart_into_uz(uz_rec, sc_stock):
+    aliases = set(uz_rec.get("aliases") or [])
+    for name in (sc_stock.get("company"), sc_stock.get("short_name")):
+        if name and name != uz_rec.get("company"):
+            aliases.add(name)
+    if aliases:
+        uz_rec["aliases"] = sorted(aliases)
+
+    price = sc_stock.get("price")
+    if price is not None:
+        uz_rec["backup_price"] = price
+
+    for key, value in sc_stock.items():
+        if key in SKIP_MERGE_FIELDS or not _meaningful(value):
+            continue
+        if not _meaningful(uz_rec.get(key)):
+            uz_rec[key] = value
+
+
+def _display_price(data):
+    price = data.get("price")
+    if price in (None, "", 0, 0.0):
+        backup = data.get("backup_price")
+        if backup not in (None, ""):
+            return backup
+    return price
+
+
+def reconcile_sharescart_duplicates(existing_data):
+    """Fold leftover SharesCart-only rows into UnlistedZone records and drop the dupes."""
+    to_delete = []
+    for slug, rec in existing_data.items():
+        if rec.get("source") != "sharescart":
+            continue
+        stock = {
+            "company": rec.get("company"),
+            "short_name": rec.get("short_name") or rec.get("company"),
+            "price": rec.get("price"),
+        }
+        matched = find_unlistedzone_slug(stock, existing_data)
+        if matched and matched != slug:
+            _merge_sharescart_into_uz(existing_data[matched], rec)
+            to_delete.append(slug)
+    for slug in to_delete:
+        del existing_data[slug]
+    return len(to_delete)
+
 
 def upsert_stocks(scraped_stocks):
     """
     scraped_stocks is a list of dictionaries.
-    We upsert them into the data JSON using slug as the key.
+    UnlistedZone rows are canonical. SharesCart rows merge in as backup_price.
     """
     existing_data = load_data()
-    
+
     upserted_count = 0
     new_count = 0
-    
-    from scraper.mapping import SHARESCART_TO_UNLISTEDZONE
-    from scraper.normalizer import slugify
-    
+
     for stock in scraped_stocks:
         source = stock.get("source")
-        
-        # Apply explicit mapping for SharesCart -> UnlistedZone
-        if source == "sharescart":
-            company_name = stock.get("company", "")
-            if company_name in SHARESCART_TO_UNLISTEDZONE:
-                mapped_name = SHARESCART_TO_UNLISTEDZONE[company_name]
-                stock["company"] = mapped_name
-                stock["slug"] = slugify(mapped_name)
-
         slug = stock.get("slug")
         if not slug:
             continue
-            
+
         stock["updated_at"] = datetime.now().isoformat()
-        
-        # If Sharescart (the backup), try to fuzzy-match against UnlistedZone
+
         if source == "sharescart":
-            matched_slug = None
-            sc_match = normalize_for_match(stock.get("company", ""))
-            
-            if slug in existing_data:
-                matched_slug = slug
-            else:
-                for ext_slug, ext_data in existing_data.items():
-                    if ext_data.get("source") == "unlistedzone":
-                        ext_match = normalize_for_match(ext_data.get("company", ""))
-                        if sc_match and ext_match and len(sc_match) >= 3 and len(ext_match) >= 3:
-                            if sc_match == ext_match or sc_match.startswith(ext_match) or ext_match.startswith(sc_match):
-                                matched_slug = ext_slug
-                                break
-                                
+            matched_slug = find_unlistedzone_slug(stock, existing_data)
             if matched_slug:
-                ext = existing_data[matched_slug]
-                # Merge missing fields
-                for k, v in stock.items():
-                    if v is not None and ext.get(k) is None:
-                        ext[k] = v
-                
-                # Backup price logic
-                if stock.get("price") is not None:
-                    if ext.get("price") is None:
-                        ext["price"] = stock.get("price")
-                        ext["source"] = "sharescart" # We are relying on sharescart now
-                    else:
-                        ext["backup_price"] = stock.get("price")
-                        
+                _merge_sharescart_into_uz(existing_data[matched_slug], stock)
+                existing_data[matched_slug]["updated_at"] = stock["updated_at"]
                 upserted_count += 1
                 continue
 
-        # Standard upsert
+            # No UnlistedZone match: keep/update a SharesCart-only record.
+            if slug in existing_data:
+                existing = existing_data[slug]
+                existing.update({k: v for k, v in stock.items() if v is not None})
+                upserted_count += 1
+            else:
+                existing_data[slug] = stock
+                new_count += 1
+            continue
+
         if slug in existing_data:
-            existing_data[slug].update({k: v for k, v in stock.items() if v is not None})
+            existing = existing_data[slug]
+            for key, value in stock.items():
+                if value is None:
+                    continue
+                if not _meaningful(value) and _meaningful(existing.get(key)):
+                    continue
+                existing[key] = value
             upserted_count += 1
         else:
             existing_data[slug] = stock
             new_count += 1
-            
+
+    removed = reconcile_sharescart_duplicates(existing_data)
+    if removed:
+        print(f"Reconciled and removed {removed} duplicate SharesCart records")
+
     save_data(existing_data)
     export_prices_json(existing_data)
     return new_count, upserted_count
+
 
 def export_prices_json(existing_data):
     api_dir = BASE_DIR / "api" / "v1"
     api_dir.mkdir(parents=True, exist_ok=True)
     json_path = api_dir / "stocks.json"
-    
+
     records = []
     for slug, data in existing_data.items():
         last_updated = data.get("updated_at", "")
         if last_updated:
             last_updated = last_updated.replace("T", " ")[:19]
-            
+
+        aliases = data.get("aliases") or []
         records.append({
             "URL": data.get("url", ""),
             "Name": data.get("company", ""),
+            "Short Name": data.get("short_name") or (aliases[0] if aliases else ""),
+            "Aliases": aliases,
             "ISIN": data.get("isin", ""),
-            "Latest Price": data.get("price", ""),
+            "Latest Price": _display_price(data),
+            "Backup Price": data.get("backup_price", ""),
             "Change Abs": data.get("change_abs", "0.00"),
             "Change Pct": data.get("change_pct", "0.00"),
             "Last Updated": last_updated,
-            "Error": data.get("error", "")
+            "Error": data.get("error", ""),
         })
-        
+
     with open(json_path, mode="w", encoding="utf-8") as f:
         json.dump(records, f, indent=4, ensure_ascii=False)

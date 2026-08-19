@@ -3,20 +3,27 @@ import time
 
 def slugify(text):
     text = text.lower().strip()
-    text = re.sub(r'[^\w\s-]', '', text)
-    text = re.sub(r'[\s_-]+', '-', text)
-    return text.strip('-')
+    text = re.sub(r"[^\w\s-]", "", text)
+    text = re.sub(r"[\s_-]+", "-", text)
+    return text.strip("-")
+
 
 def scrape_sharescart(mode="all", priority_slugs=None):
     import requests
     import json
-    
+
     url = "https://www.sharescart.com/web-services/unlisted-stocks-intermediary.php"
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/131.0.0.0 Safari/537.36"
+        ),
         "Accept": "application/json, text/plain, */*",
-        "Content-Type": "application/x-www-form-urlencoded",
-        "Referer": "https://www.sharescart.com/unlisted-shares/unlisted-shares-quotes.php"
+        "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+        "Origin": "https://www.sharescart.com",
+        "Referer": "https://www.sharescart.com/unlisted-shares/unlisted-shares-quotes.php",
+        "X-Requested-With": "XMLHttpRequest",
     }
     data = "action=unlisted_shares_quotes_new&company_name=&mcap=all&price=all&industry=all&instaBuy=No"
     results = []
@@ -25,18 +32,27 @@ def scrape_sharescart(mode="all", priority_slugs=None):
     try:
         response = requests.post(url, headers=headers, data=data, timeout=30)
         response.raise_for_status()
-        
+
         try:
             json_data = response.json()
             items = json_data.get("data", [])
             print(f"   SharesCart: Found {len(items)} companies")
-            
+
             for item in items:
                 company = item.get("UL_STOCKS_COMPNAME", "")
-                price = str(item.get("UL_PD_BID_PRICE", ""))
-                if not company or not price or float(price) <= 0:
+                short_name = item.get("UL_STOCKS_S_NAME") or ""
+                raw_price = item.get("UL_PD_BID_PRICE")
+                if raw_price in (None, "", 0, "0"):
+                    raw_price = item.get("current_price_calculated")
+                price = str(raw_price).strip() if raw_price is not None else ""
+                if not company or not price:
                     continue
-                    
+                try:
+                    if float(price) <= 0:
+                        continue
+                except (TypeError, ValueError):
+                    continue
+
                 extra_data = {}
                 mcap = item.get("MCAP")
                 if mcap:
@@ -50,30 +66,37 @@ def scrape_sharescart(mode="all", priority_slugs=None):
                 lot_size = item.get("UL_STOCKS_LOT_SIZE")
                 if lot_size:
                     extra_data["Lot Size"] = str(lot_size)
-                    
+                if short_name:
+                    extra_data["Short Name"] = str(short_name)
+
                 data_dict = {
                     "source": "sharescart",
                     "company": company,
+                    "short_name": short_name,
                     "slug": slugify(company),
                     "price": price,
                     "extra_data": extra_data,
-                    "documents": []
+                    "documents": [],
                 }
-                
-                # Extract ISIN if available
-                isin = item.get("ISIN") or item.get("UL_STOCKS_ISIN") or item.get("STOCK_ISIN") or item.get("isin")
+
+                isin = (
+                    item.get("ISIN")
+                    or item.get("UL_STOCKS_ISIN")
+                    or item.get("STOCK_ISIN")
+                    or item.get("isin")
+                )
                 if isin:
                     data_dict["isin"] = isin
-                    
+
                 results.append(data_dict)
                 print(f"       -> [{len(results)}] {company}: Fetched Price: Rs. {price}")
                 log_data = {"company": company, "price": price, "source": "sharescart"}
                 print(f"LIVE_DATA:{json.dumps(log_data)}")
-                
+
         except json.JSONDecodeError:
             print("   SharesCart: Failed to parse JSON response")
-            
+
     except Exception as e:
         print("   SharesCart Error:", e)
-            
+
     return results
