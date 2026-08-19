@@ -15,9 +15,9 @@ def get_session():
     wait=wait_exponential(multiplier=1, min=2, max=10),
     retry=retry_if_exception_type((requests.RequestException, ValueError))
 )
-def fetch_url(url, session=None, timeout=30):
+def fetch_url(url, session=None, timeout=30, headers=None):
     sess = session or get_session()
-    response = sess.get(url, timeout=timeout)
+    response = sess.get(url, timeout=timeout, headers=headers)
     response.raise_for_status()
     return response
 
