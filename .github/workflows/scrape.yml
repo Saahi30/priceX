@@ -17,7 +17,7 @@ on:
         - high-priority
         - all
       source:
-        description: 'Source to scrape (all, unlistedzone, sharescart)'
+        description: 'Source to scrape (all, unlistedzone, sharescart, wwipl)'
         required: true
         default: 'all'
         type: choice
@@ -25,6 +25,7 @@ on:
         - all
         - unlistedzone
         - sharescart
+        - wwipl
 
 jobs:
   scrape:

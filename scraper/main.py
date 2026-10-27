@@ -6,12 +6,13 @@ from scraper.normalizer import normalize_stock
 
 from scraper.scrapers.unlistedzone import scrape_unlistedzone
 from scraper.scrapers.sharescart import scrape_sharescart
+from scraper.scrapers.wwipl import scrape_wwipl
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--mode", choices=["high-priority", "all"], required=True, 
                         help="Scrape only priority stocks or all stocks.")
-    parser.add_argument("--source", choices=["unlistedzone", "sharescart", "all"], default="all",
+    parser.add_argument("--source", choices=["unlistedzone", "sharescart", "wwipl", "all"], default="all",
                         help="Scrape a specific source or all active sources.")
     args = parser.parse_args()
     
@@ -41,6 +42,11 @@ def main():
         print("\n--- Scraping SharesCart ---")
         sc_stocks = scrape_sharescart(mode=args.mode, priority_slugs=priority_slugs)
         all_raw_stocks.extend(sc_stocks)
+
+    if args.source in ["wwipl", "all"]:
+        print("\n--- Scraping WWIPL ---")
+        ww_stocks = scrape_wwipl(mode=args.mode, priority_slugs=priority_slugs)
+        all_raw_stocks.extend(ww_stocks)
     
     # Normalize
     normalized_stocks = []
