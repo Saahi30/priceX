@@ -4453,5 +4453,18 @@
         "Change Pct": "0.00",
         "Last Updated": "2026-10-07 03:12:33",
         "Error": ""
+    },
+    {
+        "URL": "https://wwipl.com/unlisted-shares/equentis-wealth-advisory-services-share-price",
+        "Name": "Equentis Wealth Advisory Services Limited",
+        "Short Name": "",
+        "Aliases": [],
+        "ISIN": "INE0QMZ01026",
+        "Latest Price": 400.0,
+        "Backup Price": "",
+        "Change Abs": "0.00",
+        "Change Pct": "0.00",
+        "Last Updated": "2026-10-27 21:49:35",
+        "Error": ""
     }
 ]

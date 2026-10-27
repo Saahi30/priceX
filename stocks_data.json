@@ -9455,5 +9455,32 @@
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/magnum-management-and-services-limited",
         "updated_at": "2026-10-07T03:12:33.701704"
+    },
+    "equentis-wealth-advisory-services-share-price": {
+        "company": "Equentis Wealth Advisory Services Limited",
+        "slug": "equentis-wealth-advisory-services-share-price",
+        "price": 400.0,
+        "market_cap": null,
+        "sector": "Financial Service",
+        "industry": null,
+        "face_value": 1.0,
+        "isin": "INE0QMZ01026",
+        "pe": null,
+        "eps": null,
+        "book_value": null,
+        "roe": null,
+        "roce": null,
+        "revenue": null,
+        "profit": null,
+        "enterprise_value": null,
+        "logo": null,
+        "description": null,
+        "documents": [],
+        "extra_data": {
+            "Short Name": "Equentis Wealth"
+        },
+        "source": "wwipl",
+        "url": "https://wwipl.com/unlisted-shares/equentis-wealth-advisory-services-share-price",
+        "updated_at": "2026-10-27T21:49:35.298636"
     }
 }
