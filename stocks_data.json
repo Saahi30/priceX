@@ -21,10 +21,10 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.059636",
+        "updated_at": "2026-11-20T09:41:00.142490",
         "backup_price": 28.5,
         "url": "https://unlistedzone.com/shares/zepto-share-price-buy-sell-unlisted-shares",
         "aliases": [
@@ -53,10 +53,10 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.134167",
+        "updated_at": "2026-11-20T09:41:00.260671",
         "backup_price": 37.5,
         "url": "https://unlistedzone.com/shares/polymatech-unlisted-shares",
         "aliases": [
@@ -117,10 +117,10 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.061653",
+        "updated_at": "2026-11-20T09:41:00.145622",
         "url": "https://unlistedzone.com/shares/oravel-stays-limited-oyo-unlisted-shares",
         "backup_price": 22.5,
         "aliases": [
@@ -150,12 +150,12 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "10000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.087728",
+        "updated_at": "2026-11-20T09:41:00.190983",
         "url": "https://unlistedzone.com/shares/msei-share-price-buy-sell-unlisted-shares-of-msei-metropolitan-stock-exchange",
-        "backup_price": 6.75,
+        "backup_price": 6.6,
         "aliases": [
             "MSEI",
             "Metropolitan Stock Exchange of India Limited - MSEI"
@@ -183,10 +183,10 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "250",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.043852",
+        "updated_at": "2026-11-20T09:41:00.117690",
         "url": "https://unlistedzone.com/shares/indian-gas-exchange-share-price-buy-sell-online"
     },
     "swiggy-ccps": {
@@ -551,10 +551,10 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.142541",
+        "updated_at": "2026-11-20T09:41:00.274015",
         "url": "https://unlistedzone.com/shares/hindustan-power-exchange-hpx-india-share-price-buy-sell-online",
         "backup_price": 23.5,
         "aliases": [
@@ -584,10 +584,10 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.162595",
+        "updated_at": "2026-11-20T09:41:00.307677",
         "url": "https://unlistedzone.com/shares/onix-renewable-unlisted-shares-buy-sell-online",
         "backup_price": 40.0,
         "aliases": [
@@ -616,12 +616,12 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.064231",
+        "updated_at": "2026-11-20T09:41:00.149669",
         "url": "https://unlistedzone.com/shares/gfcl-ev-products-share-price-buy-sell-online",
-        "backup_price": 39.5,
+        "backup_price": 38.5,
         "aliases": [
             "GFCL EV Product LTD"
         ]
@@ -629,7 +629,7 @@
     "gh2-solar-share-price-buy-sell-online": {
         "company": "GH2 Solar Limited",
         "slug": "gh2-solar-share-price-buy-sell-online",
-        "price": 315.0,
+        "price": 298.0,
         "market_cap": null,
         "sector": "Renewable Energy",
         "industry": null,
@@ -648,10 +648,10 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.043313",
+        "updated_at": "2026-11-20T09:41:00.116891",
         "url": "https://unlistedzone.com/shares/gh2-solar-share-price-buy-sell-online"
     },
     "hinduja-leyland-finance-share-price-buy-sell-online": {
@@ -676,10 +676,10 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.075924",
+        "updated_at": "2026-11-20T09:41:00.168092",
         "url": "https://unlistedzone.com/shares/hinduja-leyland-finance-share-price-buy-sell-online",
         "backup_price": 232.0,
         "aliases": [
@@ -708,10 +708,10 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.068072",
+        "updated_at": "2026-11-20T09:41:00.155728",
         "url": "https://unlistedzone.com/shares/buy-sell-cochin-international-airport-shares-for-sale-share-price-shareholders",
         "backup_price": 450.0,
         "aliases": [
@@ -722,7 +722,7 @@
     "csk-share-price-buy-sell-unlisted-shares": {
         "company": "CHENNAI SUPER KINGS CRICKET LIMITED",
         "slug": "csk-share-price-buy-sell-unlisted-shares",
-        "price": 264.0,
+        "price": 258.0,
         "market_cap": null,
         "sector": "Media & Entertainment",
         "industry": null,
@@ -741,10 +741,10 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "250",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.079544",
+        "updated_at": "2026-11-20T09:41:00.173870",
         "url": "https://unlistedzone.com/shares/csk-share-price-buy-sell-unlisted-shares",
         "backup_price": 264.0,
         "aliases": [
@@ -774,10 +774,10 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "10",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.071256",
+        "updated_at": "2026-11-20T09:41:00.160803",
         "url": "https://unlistedzone.com/shares/parag-parikh-financial-advisory-services-share-price-buy-sell-online",
         "backup_price": 17950.0,
         "aliases": [
@@ -807,10 +807,10 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "2000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.096554",
+        "updated_at": "2026-11-20T09:41:00.201187",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-aspire-home-finance-corporation-unlisted-shares",
         "backup_price": 9.25,
         "aliases": [
@@ -840,10 +840,10 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.123003",
+        "updated_at": "2026-11-20T09:41:00.242929",
         "url": "https://unlistedzone.com/shares/national-commodity-derivatives-exchange-ncdex-limited-unlisted-shares",
         "backup_price": 262.0,
         "aliases": [
@@ -873,12 +873,12 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.115143",
+        "updated_at": "2026-11-20T09:41:00.232228",
         "url": "https://unlistedzone.com/shares/kineco-limited-unlisted-share",
-        "backup_price": 3875.0,
+        "backup_price": 3825.0,
         "aliases": [
             "Kineco Limited"
         ]
@@ -905,10 +905,10 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.173680",
+        "updated_at": "2026-11-20T09:41:00.325535",
         "url": "https://unlistedzone.com/shares/apollo-green-energy-limited-unlisted-shares",
         "backup_price": 60.0,
         "aliases": [
@@ -938,10 +938,10 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "50",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.128897",
+        "updated_at": "2026-11-20T09:41:00.252197",
         "url": "https://unlistedzone.com/shares/mohan-meakin-limited-share-price-buy-sell-mohan-meakin-unlisted-shares",
         "backup_price": 2250.0,
         "aliases": [
@@ -973,7 +973,7 @@
             "Lot Size": "0"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.043360",
+        "updated_at": "2026-11-20T09:41:00.116962",
         "url": "https://unlistedzone.com/shares/ambadi-investments-murugappa-share-price-buy-sell-online"
     },
     "amol-minechem-unlisted-shares-buy-sell-online": {
@@ -998,10 +998,10 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "50",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.195476",
+        "updated_at": "2026-11-20T09:41:00.359509",
         "url": "https://unlistedzone.com/shares/amol-minechem-unlisted-shares-buy-sell-online",
         "backup_price": 900.0,
         "aliases": [
@@ -1030,10 +1030,10 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.043366",
+        "updated_at": "2026-11-20T09:41:00.116969",
         "url": "https://unlistedzone.com/shares/amrut-dredging-and-shipping-share-price-buy-sell-online"
     },
     "anglo-french-drugs-industries-share-price-buy-sell-online": {
@@ -1060,7 +1060,7 @@
             "Lot Size": "0"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.043371",
+        "updated_at": "2026-11-20T09:41:00.116977",
         "url": "https://unlistedzone.com/shares/anglo-french-drugs-industries-share-price-buy-sell-online"
     },
     "orbis-financial-corporation-unlisted-shares": {
@@ -1085,10 +1085,10 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
-        "updated_at": "2026-11-19T21:58:29.107043",
+        "updated_at": "2026-11-20T09:41:00.217806",
         "url": "https://unlistedzone.com/shares/orbis-financial-corporation-unlisted-shares",
         "backup_price": 312.0,
         "aliases": [
@@ -1118,11 +1118,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "400",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/archit-nuwood-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043374"
+        "updated_at": "2026-11-20T09:41:00.116981"
     },
     "arch-pharmalabs-limited-unlisted-shares": {
         "company": "Arch Pharmalabs Limited Unlisted Shares",
@@ -1150,7 +1150,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/arch-pharmalabs-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043377"
+        "updated_at": "2026-11-20T09:41:00.116985"
     },
     "asian-hotels-west-share-price-buy-sell-online": {
         "company": "Asian Hotels (West) Limited",
@@ -1177,7 +1177,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/asian-hotels-west-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043379"
+        "updated_at": "2026-11-20T09:41:00.116989"
     },
     "buy-sell-share-price-assam-carbon-products-limited-unlisted-shares": {
         "company": "Assam Carbon Products Limited Unlisted Shares",
@@ -1201,11 +1201,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-assam-carbon-products-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.189466",
+        "updated_at": "2026-11-20T09:41:00.350039",
         "backup_price": 425.0,
         "aliases": [
             "Assam Carbon Products",
@@ -1238,7 +1238,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/auckland-jute-unlisted-shares-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043385"
+        "updated_at": "2026-11-20T09:41:00.116997"
     },
     "buy-sell-share-price-a-v-thomas-co-limited-unlisted-shares": {
         "company": "A V Thomas & Co. Limited Unlisted Shares",
@@ -1266,7 +1266,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-a-v-thomas-co-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.148844",
+        "updated_at": "2026-11-20T09:41:00.284044",
         "backup_price": 22000.0,
         "aliases": [
             "A V Thomas and Co Limited",
@@ -1298,7 +1298,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/bagrrys-india-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043390"
+        "updated_at": "2026-11-20T09:41:00.117005"
     },
     "berar-finance-limited": {
         "company": "Berar Finance Limited",
@@ -1322,11 +1322,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/berar-finance-limited",
-        "updated_at": "2026-11-19T21:58:29.155925",
+        "updated_at": "2026-11-20T09:41:00.296233",
         "backup_price": 465.0,
         "aliases": [
             "Berar Finance Ltd"
@@ -1358,7 +1358,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/big-basket-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.066982",
+        "updated_at": "2026-11-20T09:41:00.154036",
         "backup_price": 1950.0,
         "aliases": [
             "Big Basket"
@@ -1386,11 +1386,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "2500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/blsx-shares-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043399"
+        "updated_at": "2026-11-20T09:41:00.117016"
     },
     "bombay-gas-company-limited-unlisted-shares": {
         "company": "Bombay Gas Company Limited Unlisted Shares",
@@ -1414,11 +1414,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/bombay-gas-company-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043401"
+        "updated_at": "2026-11-20T09:41:00.117020"
     },
     "bombay-swadeshi-stores-limited-unlisted-shares": {
         "company": "Bombay Swadeshi Stores Limited Unlisted Shares",
@@ -1446,12 +1446,12 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/bombay-swadeshi-stores-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043404"
+        "updated_at": "2026-11-20T09:41:00.117024"
     },
     "calcutta-stock-exchange-share-price-buy-sell-online": {
         "company": "Calcutta Stock Exchange Unlisted Shares",
         "slug": "calcutta-stock-exchange-share-price-buy-sell-online",
-        "price": 965.0,
+        "price": 895.0,
         "market_cap": null,
         "sector": "Capital Markets",
         "industry": null,
@@ -1470,11 +1470,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/calcutta-stock-exchange-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.158035",
+        "updated_at": "2026-11-20T09:41:00.300052",
         "aliases": [
             "Calcutta Stock Exchange"
         ],
@@ -1483,7 +1483,7 @@
     "cheelizza-pizza-share-price-by-sell-online": {
         "company": "Cheelizza Pizza Unlisted Shares",
         "slug": "cheelizza-pizza-share-price-by-sell-online",
-        "price": 14.5,
+        "price": 14.25,
         "market_cap": null,
         "sector": "Consumer Goods & Services",
         "industry": null,
@@ -1502,12 +1502,12 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "2500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/cheelizza-pizza-share-price-by-sell-online",
-        "updated_at": "2026-11-19T21:58:29.182615",
-        "backup_price": 14.5,
+        "updated_at": "2026-11-20T09:41:00.339403",
+        "backup_price": 14.25,
         "aliases": [
             "Cheelizza Pizza India Limited",
             "Cheelizza Pizza India Ltd"
@@ -1535,11 +1535,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/claps-oiltech-unlisted-share",
-        "updated_at": "2026-11-19T21:58:29.043412"
+        "updated_at": "2026-11-20T09:41:00.117036"
     },
     "core-energy-systems-share-price-buy-sell-online": {
         "company": "Core Energy Systems Limited",
@@ -1563,11 +1563,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/core-energy-systems-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043415"
+        "updated_at": "2026-11-20T09:41:00.117040"
     },
     "cremica-food-industries-share-price-buy-sell-online": {
         "company": "Cremica Food Industries Limited",
@@ -1591,11 +1591,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/cremica-food-industries-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043420"
+        "updated_at": "2026-11-20T09:41:00.117047"
     },
     "ctr-manufacturing-industries-limited-unlisted-shares": {
         "company": "CTR Manufacturing Industries Limited Unlisted Share",
@@ -1623,7 +1623,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/ctr-manufacturing-industries-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043422"
+        "updated_at": "2026-11-20T09:41:00.117051"
     },
     "dantech-digital-dental-solutions-private-limited": {
         "company": "Dantech Digital Dental Solutions Private Limited",
@@ -1647,11 +1647,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/dantech-digital-dental-solutions-private-limited",
-        "updated_at": "2026-11-19T21:58:29.043425"
+        "updated_at": "2026-11-20T09:41:00.117055"
     },
     "deys-medical-stores-mfg-limited-unlisted-shares": {
         "company": "Deys Medical Stores (Mfg) Limited Unlisted Shares",
@@ -1679,7 +1679,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/deys-medical-stores-mfg-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043428"
+        "updated_at": "2026-11-20T09:41:00.117059"
     },
     "down-town-hospital-limited-unlisted-shares": {
         "company": "Down Town Hospital Limited Unlisted Shares",
@@ -1703,11 +1703,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/down-town-hospital-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.201363",
+        "updated_at": "2026-11-20T09:41:00.368849",
         "backup_price": 175.0,
         "aliases": [
             "Downtown Hospital Ltd"
@@ -1766,7 +1766,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/east-india-pharmaceutical-works-limited",
-        "updated_at": "2026-11-19T21:58:29.043438"
+        "updated_at": "2026-11-20T09:41:00.117075"
     },
     "eiffil-water-infra-share-price-buy-sell-online": {
         "company": "Eiffil Water Infra Private Limited",
@@ -1790,11 +1790,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/eiffil-water-infra-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043444"
+        "updated_at": "2026-11-20T09:41:00.117083"
     },
     "ekkaa-electronics-india-share-price-buy-sell-online": {
         "company": "Ekkaa Electronics (India) Ltd.",
@@ -1821,7 +1821,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/ekkaa-electronics-india-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043446"
+        "updated_at": "2026-11-20T09:41:00.117086"
     },
     "e-trav-tech-share-price-buy-sell-online": {
         "company": "E Trav Tech Limited",
@@ -1845,11 +1845,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/e-trav-tech-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043449"
+        "updated_at": "2026-11-20T09:41:00.117090"
     },
     "buy-sell-latest-price-fincare-small-finance-bank-unlisted-shares": {
         "company": "Fincare Small Finance Bank Unlisted Shares",
@@ -1877,7 +1877,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-latest-price-fincare-small-finance-bank-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.097645",
+        "updated_at": "2026-11-20T09:41:00.202910",
         "backup_price": 260.0,
         "aliases": [
             "Fincare Small Finance Bank",
@@ -1906,11 +1906,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/fns-international-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043457"
+        "updated_at": "2026-11-20T09:41:00.117102"
     },
     "gamma-rotors-share-price-buy-sell-online": {
         "company": "Gamma Rotors Limited",
@@ -1934,11 +1934,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/gamma-rotors-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.183713",
+        "updated_at": "2026-11-20T09:41:00.341058",
         "backup_price": 125.0,
         "aliases": [
             "Gamma Rotors"
@@ -1970,7 +1970,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/gg-automotive-gears-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043465"
+        "updated_at": "2026-11-20T09:41:00.117114"
     },
     "graand-prix-luxury-elevators-limited-unlisted-shares": {
         "company": "Graand Prix Luxury Elevators Limited Unlisted Shares",
@@ -1994,11 +1994,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/graand-prix-luxury-elevators-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043471"
+        "updated_at": "2026-11-20T09:41:00.117122"
     },
     "gynofem-healthcare-unlisted-shares-price": {
         "company": "Gynofem Healthcare Unlisted Shares Price",
@@ -2022,11 +2022,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/gynofem-healthcare-unlisted-shares-price",
-        "updated_at": "2026-11-19T21:58:29.043474"
+        "updated_at": "2026-11-20T09:41:00.117126"
     },
     "hdfc-ergo-general-insurance-limited-unlisted-shares": {
         "company": "HDFC Ergo General Insurance Limited Unlisted Shares",
@@ -2053,7 +2053,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/hdfc-ergo-general-insurance-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043476"
+        "updated_at": "2026-11-20T09:41:00.117130"
     },
     "himalayan-heli-services": {
         "company": "Himalayan Heli Services",
@@ -2077,11 +2077,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "600",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/himalayan-heli-services",
-        "updated_at": "2026-11-19T21:58:29.043479"
+        "updated_at": "2026-11-20T09:41:00.117134"
     },
     "buy-sell-share-price-hindustan-times-limited-unlisted-shares": {
         "company": "Hindustan Times Unlisted Shares",
@@ -2105,11 +2105,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-hindustan-times-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043482"
+        "updated_at": "2026-11-20T09:41:00.117138"
     },
     "hira-ferro-alloys-unlisted-shares": {
         "company": "Hira Ferro Alloys Unlisted Shares",
@@ -2133,11 +2133,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/hira-ferro-alloys-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043484"
+        "updated_at": "2026-11-20T09:41:00.117142"
     },
     "hive-hostels-share-price-buy-sell-online": {
         "company": "Hive Hostels",
@@ -2193,7 +2193,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/honeywell-electrical-devices-and-systems-india-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.153786",
+        "updated_at": "2026-11-20T09:41:00.292809",
         "backup_price": 8500.0,
         "aliases": [
             "Honeywell Electrical Devices and Systems",
@@ -2226,7 +2226,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-hutti-gold-mines-company-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043490"
+        "updated_at": "2026-11-20T09:41:00.117150"
     },
     "hvr-solar-share-price-buy-sell-online": {
         "company": "HVR Solar Limited",
@@ -2250,12 +2250,12 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/hvr-solar-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.170215",
-        "backup_price": 294.0,
+        "updated_at": "2026-11-20T09:41:00.319943",
+        "backup_price": 298.0,
         "aliases": [
             "HVR Solar Private Limited"
         ]
@@ -2285,12 +2285,12 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/igrel-renewables-limited",
-        "updated_at": "2026-11-19T21:58:29.043496"
+        "updated_at": "2026-11-20T09:41:00.117158"
     },
     "ikf-finance-share-price-buy-sell-online": {
         "company": "IKF Finance Limited Unlisted Shares",
         "slug": "ikf-finance-share-price-buy-sell-online",
-        "price": 198.0,
+        "price": 182.0,
         "market_cap": null,
         "sector": "NBFC",
         "industry": null,
@@ -2309,12 +2309,12 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "250",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/ikf-finance-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.108137",
-        "backup_price": 198.0,
+        "updated_at": "2026-11-20T09:41:00.223663",
+        "backup_price": 182.0,
         "aliases": [
             "IKF Finance"
         ]
@@ -2341,11 +2341,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/imperative-ventures-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043501"
+        "updated_at": "2026-11-20T09:41:00.117166"
     },
     "innov8-workspaces-india-share-price-buy-sell-online": {
         "company": "Innov8 Workspaces India Limited",
@@ -2369,11 +2369,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/innov8-workspaces-india-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.136869",
+        "updated_at": "2026-11-20T09:41:00.265059",
         "backup_price": 56.0,
         "aliases": [
             "Innov8 Workspaces India Ltd"
@@ -2405,7 +2405,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/inox-renewable-solutions-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.083889",
+        "updated_at": "2026-11-20T09:41:00.180802",
         "backup_price": 575.0,
         "aliases": [
             "Inox Renewable Solutions"
@@ -2433,11 +2433,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/interno-fusion-unlisted-share",
-        "updated_at": "2026-11-19T21:58:29.043526"
+        "updated_at": "2026-11-20T09:41:00.117202"
     },
     "jainam-broking-share-price-buy-sell-online": {
         "company": "Jainam Broking Limited",
@@ -2461,11 +2461,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/jainam-broking-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043534"
+        "updated_at": "2026-11-20T09:41:00.117214"
     },
     "jasmino-corporation-share-price-buy-sell-online": {
         "company": "Jasmino Corporation Limited",
@@ -2489,11 +2489,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "250",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/jasmino-corporation-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043537"
+        "updated_at": "2026-11-20T09:41:00.117218"
     },
     "kanara-consumer-products-formerly-known-as-kurl-on-limited-unlisted-shares": {
         "company": "Kanara Consumer Products ( Formerly Known As Kurl-on Limited) Unlisted Shares",
@@ -2517,11 +2517,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "50",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/kanara-consumer-products-formerly-known-as-kurl-on-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.140056",
+        "updated_at": "2026-11-20T09:41:00.270210",
         "backup_price": 875.0,
         "aliases": [
             "Kanara Consumer Products Limited",
@@ -2550,11 +2550,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1200",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/karigari-ventures-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043542"
+        "updated_at": "2026-11-20T09:41:00.117226"
     },
     "kevadiya-constructure-share-price-buy-sell-online": {
         "company": "Kevadiya Constructure Limited (KCL)",
@@ -2581,7 +2581,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/kevadiya-constructure-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043545"
+        "updated_at": "2026-11-20T09:41:00.117230"
     },
     "lakeshore-hospital-unlisted-share-price": {
         "company": "Lakeshore Hospital Unlisted Share Price",
@@ -2605,11 +2605,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/lakeshore-hospital-unlisted-share-price",
-        "updated_at": "2026-11-19T21:58:29.150491",
+        "updated_at": "2026-11-20T09:41:00.287632",
         "backup_price": 96.0,
         "aliases": [
             "Lakeshore Hospital",
@@ -2641,7 +2641,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/livespace-interiors-pvt-ltd",
-        "updated_at": "2026-11-19T21:58:29.043550"
+        "updated_at": "2026-11-20T09:41:00.117238"
     },
     "machint-solutions-limited": {
         "company": "Machint Solutions Limited",
@@ -2665,11 +2665,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/machint-solutions-limited",
-        "updated_at": "2026-11-19T21:58:29.191658",
+        "updated_at": "2026-11-20T09:41:00.353497",
         "backup_price": 78.0,
         "aliases": [
             "Machint Solutions"
@@ -2697,11 +2697,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/madhur-iron-and-steel-shares-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.161954",
+        "updated_at": "2026-11-20T09:41:00.306606",
         "aliases": [
             "Madhur Iron and Steel"
         ],
@@ -2729,11 +2729,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "250",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-maharaja-shree-umaid-mills-unlisted-shares-share-price",
-        "updated_at": "2026-11-19T21:58:29.043558"
+        "updated_at": "2026-11-20T09:41:00.117262"
     },
     "buy-sell-market-simplified-unlisted-shares": {
         "company": "Market Simplified Unlisted Shares Price",
@@ -2757,11 +2757,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-market-simplified-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.199224",
+        "updated_at": "2026-11-20T09:41:00.365509",
         "backup_price": 26.0,
         "aliases": [
             "Market Simplified",
@@ -2794,7 +2794,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/mil-industries-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043566"
+        "updated_at": "2026-11-20T09:41:00.117274"
     },
     "milton-cycle-industries-limited-unlisted-shares": {
         "company": "Milton Cycle Industries Limited Unlisted Shares",
@@ -2818,11 +2818,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/milton-cycle-industries-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043569"
+        "updated_at": "2026-11-20T09:41:00.117279"
     },
     "minosha-india-limited-unlisted-shares": {
         "company": "Minosha India Limited Unlisted Shares",
@@ -2850,7 +2850,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/minosha-india-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043572"
+        "updated_at": "2026-11-20T09:41:00.117283"
     },
     "nidec-india-precision-tools-ltdformerly-mitsubishi-heavy-industries-unlisted-shares": {
         "company": "Nidec India Precision Tools Ltd.(Formerly Mitsubishi Heavy Industries) Unlisted Shares",
@@ -2877,7 +2877,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/nidec-india-precision-tools-ltdformerly-mitsubishi-heavy-industries-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043582"
+        "updated_at": "2026-11-20T09:41:00.117298"
     },
     "nilliampathy-tea-produce-company-limites-unlisted-shares": {
         "company": "Nilliampathy Tea & Produce Company Limites Unlisted Shares",
@@ -2901,11 +2901,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "50",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/nilliampathy-tea-produce-company-limites-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043585"
+        "updated_at": "2026-11-20T09:41:00.117302"
     },
     "ofbusiness-tech-share-price-buy-sell-online": {
         "company": "OfBusiness (OFB) Tech Limited",
@@ -2957,11 +2957,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "25",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/parry-agro-industries-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043591"
+        "updated_at": "2026-11-20T09:41:00.117309"
     },
     "pashupati-polytex-share-price-buy-sell-online": {
         "company": "Pashupati Polytex Private Limited",
@@ -2985,11 +2985,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/pashupati-polytex-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043593"
+        "updated_at": "2026-11-20T09:41:00.117313"
     },
     "phonepe-limited-share-price-buy-sell-online": {
         "company": "PhonePe Limited",
@@ -3016,7 +3016,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/phonepe-limited-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043596"
+        "updated_at": "2026-11-20T09:41:00.117317"
     },
     "pnb-metlife-insurance-unlisted-shares": {
         "company": "PNB MetLife Insurance Unlisted Shares",
@@ -3044,7 +3044,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/pnb-metlife-insurance-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043599"
+        "updated_at": "2026-11-20T09:41:00.117321"
     },
     "premier-cryogenics-limited-unlisted-shares": {
         "company": "Premier Cryogenics Limited Unlisted Shares",
@@ -3072,7 +3072,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/premier-cryogenics-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043604"
+        "updated_at": "2026-11-20T09:41:00.117329"
     },
     "quality-enviro-engineers-private-limited": {
         "company": "Quality Enviro Engineers Limited",
@@ -3100,7 +3100,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/quality-enviro-engineers-private-limited",
-        "updated_at": "2026-11-19T21:58:29.202441",
+        "updated_at": "2026-11-20T09:41:00.370569",
         "backup_price": 104.0,
         "aliases": [
             "Quality Enviro",
@@ -3132,7 +3132,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/raft-motors-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043609"
+        "updated_at": "2026-11-20T09:41:00.117336"
     },
     "rathi-industries-limited": {
         "company": "Rathi Industries Limited",
@@ -3156,11 +3156,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/rathi-industries-limited",
-        "updated_at": "2026-11-19T21:58:29.043612"
+        "updated_at": "2026-11-20T09:41:00.117340"
     },
     "raviraj-process-control-share-price-buy-sell-online": {
         "company": "Raviraj Process Control Ltd",
@@ -3184,11 +3184,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "2000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/raviraj-process-control-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043615"
+        "updated_at": "2026-11-20T09:41:00.117344"
     },
     "razorpay-software-share-price-buy-sell-online": {
         "company": "Razorpay Software Limited",
@@ -3215,7 +3215,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/razorpay-software-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043620"
+        "updated_at": "2026-11-20T09:41:00.117352"
     },
     "reliance-general-insurance-unlisted-shares-buy-sell-online": {
         "company": "IndusInd General Insurance ( Formerly Reliance General Insurance )",
@@ -3239,11 +3239,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/reliance-general-insurance-unlisted-shares-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043509"
+        "updated_at": "2026-11-20T09:41:00.117177"
     },
     "renfra-energy-india-share-price-buy-sell-online": {
         "company": "Renfra Energy India Limited",
@@ -3267,11 +3267,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/renfra-energy-india-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.127087",
+        "updated_at": "2026-11-20T09:41:00.249419",
         "aliases": [
             "Renfra Energy India Private Limited"
         ],
@@ -3302,7 +3302,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/ripple-infra-systems-pvt-ltd",
-        "updated_at": "2026-11-19T21:58:29.043625"
+        "updated_at": "2026-11-20T09:41:00.117360"
     },
     "buy-sell-share-price-san-engineering-and-locomotive-company-unlisted-shares": {
         "company": "San Engineering and Locomotive Company Limited Unlisted Shares",
@@ -3326,11 +3326,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "50",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-san-engineering-and-locomotive-company-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043636"
+        "updated_at": "2026-11-20T09:41:00.117375"
     },
     "sbi-general-insurance-unlisted-shares": {
         "company": "SBI General Insurance Unlisted Shares",
@@ -3358,7 +3358,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/sbi-general-insurance-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.065272",
+        "updated_at": "2026-11-20T09:41:00.151338",
         "backup_price": 1150.0,
         "aliases": [
             "SBI General Insurance",
@@ -3387,11 +3387,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/segmental-infrastructure-development-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043642"
+        "updated_at": "2026-11-20T09:41:00.117383"
     },
     "shiprocket-ltd-share-price-buy-sell-online": {
         "company": "Shiprocket Limited",
@@ -3444,7 +3444,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/shriram-life-insurance-co-ltd-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.082763",
+        "updated_at": "2026-11-20T09:41:00.179037",
         "backup_price": 525.0,
         "aliases": [
             "Shriram Life Insurance",
@@ -3477,7 +3477,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/sicom-india-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043655"
+        "updated_at": "2026-11-20T09:41:00.117402"
     },
     "sk-finance-share-price-buy-sell-online": {
         "company": "SK Finance Limited",
@@ -3501,11 +3501,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/sk-finance-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043657"
+        "updated_at": "2026-11-20T09:41:00.117406"
     },
     "smile-microfinance-share-price-buy-sell-online": {
         "company": "SMILE Microfinance Unlisted Shares",
@@ -3529,11 +3529,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/smile-microfinance-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043660"
+        "updated_at": "2026-11-20T09:41:00.117410"
     },
     "solar-91-cleantech-share-price-buy-sell-online": {
         "company": "Solar 91 Cleantech Limited",
@@ -3557,11 +3557,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/solar-91-cleantech-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.152670",
+        "updated_at": "2026-11-20T09:41:00.289360",
         "backup_price": 448.0,
         "aliases": [
             "Solar91 Cleantech",
@@ -3593,7 +3593,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/soleos-energy-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043665"
+        "updated_at": "2026-11-20T09:41:00.117418"
     },
     "spencer-and-company-limited-unlisted-shares": {
         "company": "Spencer and Company Limited Unlisted Shares",
@@ -3617,11 +3617,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "25",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/spencer-and-company-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043668"
+        "updated_at": "2026-11-20T09:41:00.117422"
     },
     "srichakra-cement-limited-unlisted-shares": {
         "company": "Srichakra Cement Limited Unlisted Shares",
@@ -3645,11 +3645,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "250",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/srichakra-cement-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043670"
+        "updated_at": "2026-11-20T09:41:00.117426"
     },
     "sri-vishnu-shankar-mill-limited-unlisted-shares": {
         "company": "Sri Vishnu Shankar Mill Limited Unlisted Shares",
@@ -3673,11 +3673,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "50",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/sri-vishnu-shankar-mill-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043673"
+        "updated_at": "2026-11-20T09:41:00.117429"
     },
     "thalappakatti-hotels-private-limited": {
         "company": "Thalappakatti Hotels Private Limited",
@@ -3704,7 +3704,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/thalappakatti-hotels-private-limited",
-        "updated_at": "2026-11-19T21:58:29.043678"
+        "updated_at": "2026-11-20T09:41:00.117437"
     },
     "the-scottish-assam-india-limited-unlisted-shares": {
         "company": "The Scottish Assam (India) Limited Unlisted Shares",
@@ -3732,7 +3732,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/the-scottish-assam-india-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043681"
+        "updated_at": "2026-11-20T09:41:00.117441"
     },
     "t-stanes-and-company-limited": {
         "company": "T Stanes and Company Limited",
@@ -3760,7 +3760,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/t-stanes-and-company-limited",
-        "updated_at": "2026-11-19T21:58:29.043683"
+        "updated_at": "2026-11-20T09:41:00.117445"
     },
     "veremax-technologie-services-share-price-buy-sell-online": {
         "company": "Veremax Technologie Services Limited",
@@ -3784,11 +3784,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "250",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/veremax-technologie-services-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043686"
+        "updated_at": "2026-11-20T09:41:00.117449"
     },
     "vivriti-capital-share-price-buy-sell-online": {
         "company": "Vivriti Finance Limited",
@@ -3812,11 +3812,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/vivriti-capital-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043689"
+        "updated_at": "2026-11-20T09:41:00.117453"
     },
     "vyara-tiles-limited": {
         "company": "Vyara Tiles Limited",
@@ -3843,12 +3843,12 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/vyara-tiles-limited",
-        "updated_at": "2026-11-19T21:58:29.043694"
+        "updated_at": "2026-11-20T09:41:00.117461"
     },
     "absolute-projects-india-limited": {
         "company": "Absolute Projects (India) Limited",
         "slug": "absolute-projects-india-limited",
-        "price": 80.0,
+        "price": 78.0,
         "market_cap": null,
         "sector": "Energy & Power",
         "industry": null,
@@ -3867,15 +3867,15 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/absolute-projects-india-limited",
-        "updated_at": "2026-11-19T21:58:29.169555",
+        "updated_at": "2026-11-20T09:41:00.318914",
         "aliases": [
             "Absolute Projects India Limited"
         ],
-        "backup_price": 80.0
+        "backup_price": 78.0
     },
     "adiance-technologies-unlisted-shares": {
         "company": "ADIANCE TECHNOLOGIES Unlisted Shares",
@@ -3899,11 +3899,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "50",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/adiance-technologies-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043702"
+        "updated_at": "2026-11-20T09:41:00.117472"
     },
     "adtech-systems-limited-unlisted-shares": {
         "company": "Adtech Systems Limited Unlisted Shares",
@@ -3931,7 +3931,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/adtech-systems-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043705"
+        "updated_at": "2026-11-20T09:41:00.117476"
     },
     "anheuser-busch-inbev-sabmiller-india-limited-unlisted-shares": {
         "company": "Anheuser Busch Inbev (Sabmiller) India Limited Unlisted Shares",
@@ -3955,11 +3955,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/anheuser-busch-inbev-sabmiller-india-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.057687",
+        "updated_at": "2026-11-20T09:41:00.139468",
         "backup_price": 555.0,
         "aliases": [
             "AB Inbev Sabmiller",
@@ -3988,12 +3988,12 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/anugraha-valve-castings-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.179334",
-        "backup_price": 585.0,
+        "updated_at": "2026-11-20T09:41:00.334316",
+        "backup_price": 575.0,
         "aliases": [
             "Anugraha Valve Castings Limited",
             "Anugraha Valve Castings Ltd"
@@ -4054,11 +4054,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "5000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/apl-metals-unlisted-share-price-buy-sell",
-        "updated_at": "2026-11-19T21:58:29.043716"
+        "updated_at": "2026-11-20T09:41:00.117492"
     },
     "apollo-fashion-international-unlisted-shares": {
         "company": "Apollo Fashion International Unlisted Shares",
@@ -4082,11 +4082,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/apollo-fashion-international-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043719"
+        "updated_at": "2026-11-20T09:41:00.117496"
     },
     "arohan-financial-services-unlisted-shares": {
         "company": "Arohan Financial Services Unlisted Shares",
@@ -4110,11 +4110,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "250",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/arohan-financial-services-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.110743",
+        "updated_at": "2026-11-20T09:41:00.221925",
         "backup_price": 228.0,
         "aliases": [
             "Arohan Financial",
@@ -4143,12 +4143,12 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/ask-investment-managers-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.093376",
-        "backup_price": 775.0,
+        "updated_at": "2026-11-20T09:41:00.196084",
+        "backup_price": 745.0,
         "aliases": [
             "ASK Investment Managers Ltd"
         ]
@@ -4175,11 +4175,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/axles-india-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.131076",
+        "updated_at": "2026-11-20T09:41:00.255695",
         "backup_price": 650.0,
         "aliases": [
             "Axles India",
@@ -4208,11 +4208,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "2500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-bazar-india-unlisted-shares-share-price",
-        "updated_at": "2026-11-19T21:58:29.198131",
+        "updated_at": "2026-11-20T09:41:00.363804",
         "backup_price": 24.0,
         "aliases": [
             "Bazar India",
@@ -4241,11 +4241,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/bharat-hotels-limited-share-price-buy-sell-unlisted-shares-of-bharat-hotels",
-        "updated_at": "2026-11-19T21:58:29.043732"
+        "updated_at": "2026-11-20T09:41:00.117516"
     },
     "buy-sell-share-price-bharat-nidhi-bharat-bank-unlisted-shares": {
         "company": "Bharat Nidhi (Bharat Bank) Unlisted Shares",
@@ -4269,11 +4269,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "10",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-bharat-nidhi-bharat-bank-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.109235",
+        "updated_at": "2026-11-20T09:41:00.219555",
         "backup_price": 12800.0,
         "aliases": [
             "Bharat Bank",
@@ -4302,12 +4302,12 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/bira-share-price-buy-sell-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.158673",
-        "backup_price": 74.0,
+        "updated_at": "2026-11-20T09:41:00.301418",
+        "backup_price": 68.0,
         "aliases": [
             "B9 Beverages Limited - Bira",
             "Bira"
@@ -4335,11 +4335,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/boat-unlisted-share-imagine-marketing",
-        "updated_at": "2026-11-19T21:58:29.078009",
+        "updated_at": "2026-11-20T09:41:00.171496",
         "backup_price": 785.0,
         "aliases": [
             "BOAT",
@@ -4368,11 +4368,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/bolzen-and-mutter-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043743"
+        "updated_at": "2026-11-20T09:41:00.117531"
     },
     "bootes-impex-tech-share-price-buy-sell-online": {
         "company": "Bootes Impex Tech Ltd.",
@@ -4396,11 +4396,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "50",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/bootes-impex-tech-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.159738",
+        "updated_at": "2026-11-20T09:41:00.303138",
         "aliases": [
             "Bootes Impex Tech Ltd"
         ],
@@ -4428,11 +4428,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/bvg-india-limited-unlisted-share",
-        "updated_at": "2026-11-19T21:58:29.043748"
+        "updated_at": "2026-11-20T09:41:00.117539"
     },
     "camac-commercial-company-limited-unlisted-shares": {
         "company": "Camac Commercial Company Limited Unlisted Shares",
@@ -4460,7 +4460,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/camac-commercial-company-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043751"
+        "updated_at": "2026-11-20T09:41:00.117543"
     },
     "capgemini-technology-services-india-limited-unlisted-shares": {
         "company": "Capgemini Technology Services India Limited Unlisted Shares",
@@ -4484,11 +4484,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "10",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/capgemini-technology-services-india-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.056558",
+        "updated_at": "2026-11-20T09:41:00.137748",
         "backup_price": 8750.0,
         "aliases": [
             "Capgemini Technology",
@@ -4498,7 +4498,7 @@
     "care-health-previously-religare-health-insurance-company-limited-unlisted-shares-buy-sell-share-price": {
         "company": "Care Health Insurance Company Limited Unlisted Shares",
         "slug": "care-health-previously-religare-health-insurance-company-limited-unlisted-shares-buy-sell-share-price",
-        "price": 138.0,
+        "price": 134.0,
         "market_cap": null,
         "sector": "Insurance",
         "industry": null,
@@ -4517,12 +4517,12 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/care-health-previously-religare-health-insurance-company-limited-unlisted-shares-buy-sell-share-price",
-        "updated_at": "2026-11-19T21:58:29.073435",
-        "backup_price": 138.0,
+        "updated_at": "2026-11-20T09:41:00.164281",
+        "backup_price": 134.0,
         "aliases": [
             "Care Health Insurance",
             "Care Health Insurance Ltd"
@@ -4554,7 +4554,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-carrier-airconditioning-refrigeration-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.095489",
+        "updated_at": "2026-11-20T09:41:00.199476",
         "backup_price": 575.0,
         "aliases": [
             "Carrier Airconditioning",
@@ -4583,11 +4583,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/cs-electric-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043762"
+        "updated_at": "2026-11-20T09:41:00.117559"
     },
     "dalmia-bharat-refractory-unlisted-shares-price": {
         "company": "Dalmia Bharat Refractories Limited Unlisted Shares",
@@ -4611,11 +4611,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "250",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/dalmia-bharat-refractory-unlisted-shares-price",
-        "updated_at": "2026-11-19T21:58:29.043765"
+        "updated_at": "2026-11-20T09:41:00.117563"
     },
     "delta-galaxy-unlisted-shares": {
         "company": "Delta Galaxy Unlisted Shares",
@@ -4639,11 +4639,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1200",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/delta-galaxy-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043767"
+        "updated_at": "2026-11-20T09:41:00.117567"
     },
     "buy-sell-share-price-digvijay-finlease-unlisted-shares": {
         "company": "Digvijay Finlease Unlisted Shares",
@@ -4667,11 +4667,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "50",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-digvijay-finlease-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043770"
+        "updated_at": "2026-11-20T09:41:00.117571"
     },
     "eaton-fluid-power-limited-unlisted-shares": {
         "company": "Eaton Fluid Power Limited Unlisted Shares",
@@ -4699,7 +4699,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/eaton-fluid-power-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043773"
+        "updated_at": "2026-11-20T09:41:00.117575"
     },
     "ecosure-share-price-buy-sell-online": {
         "company": "Ecosure Unlisted Shares",
@@ -4723,11 +4723,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "5000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/ecosure-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.190590",
+        "updated_at": "2026-11-20T09:41:00.351783",
         "backup_price": 30.0,
         "aliases": [
             "Ecosure Pulpmolding",
@@ -4756,11 +4756,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-electrosteel-steels-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.094413",
+        "updated_at": "2026-11-20T09:41:00.197758",
         "backup_price": 34.0,
         "aliases": [
             "Electrosteel Steel Ltd",
@@ -4789,11 +4789,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "25",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/elofic-industries-limited-share-price-buy-sell-unlisted-shares-of-elofic-industries-limited",
-        "updated_at": "2026-11-19T21:58:29.043781"
+        "updated_at": "2026-11-20T09:41:00.117587"
     },
     "empire-spices-and-foods-limited-unlisted-shares": {
         "company": "Empire Spices and Foods Limited Unlisted Shares",
@@ -4817,11 +4817,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/empire-spices-and-foods-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.171930",
+        "updated_at": "2026-11-20T09:41:00.322679",
         "backup_price": 550.0,
         "aliases": [
             "Empire Spices and Foods Limited",
@@ -4887,7 +4887,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-fincare-business-services-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043786"
+        "updated_at": "2026-11-20T09:41:00.117595"
     },
     "buy-sell-share-price-fino-paytech-limited-unlisted-shares": {
         "company": "Fino Paytech Limited Unlisted Shares",
@@ -4911,11 +4911,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-fino-paytech-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.154860",
+        "updated_at": "2026-11-20T09:41:00.294538",
         "backup_price": 74.0,
         "aliases": [
             "Fino Paytech Limited",
@@ -4944,11 +4944,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-frick-india-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043792"
+        "updated_at": "2026-11-20T09:41:00.117602"
     },
     "fusion-techstack-limited-formerly-known-as-icex-share-price-buy-sell-online": {
         "company": "Fusion Techstack Limited (Formerly known as Indian Commodity Exchange Limited)",
@@ -4972,11 +4972,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "10000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/fusion-techstack-limited-formerly-known-as-icex-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.176862",
+        "updated_at": "2026-11-20T09:41:00.330572",
         "backup_price": 4.0,
         "aliases": [
             "Fusion Techstack Limited",
@@ -5005,11 +5005,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/garuda-aerospace-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.124963",
+        "updated_at": "2026-11-20T09:41:00.246050",
         "backup_price": 424.0,
         "aliases": [
             "Garuda Aerospace"
@@ -5037,11 +5037,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "25",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/gkn-driveline-india-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.121943",
+        "updated_at": "2026-11-20T09:41:00.241219",
         "backup_price": 1850.0,
         "aliases": [
             "GKN Driveline",
@@ -5070,11 +5070,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/goa-shipyard-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.063169",
+        "updated_at": "2026-11-20T09:41:00.147990",
         "backup_price": 2675.0,
         "aliases": [
             "Goa Shipyard",
@@ -5084,7 +5084,7 @@
     "goodluck-defence-and-aerospace-unlisted-share-price": {
         "company": "Goodluck Defence And Aerospace Unlisted Shares",
         "slug": "goodluck-defence-and-aerospace-unlisted-share-price",
-        "price": 418.0,
+        "price": 408.0,
         "market_cap": null,
         "sector": "Defence",
         "industry": null,
@@ -5103,12 +5103,12 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/goodluck-defence-and-aerospace-unlisted-share-price",
-        "updated_at": "2026-11-19T21:58:29.127732",
-        "backup_price": 418.0,
+        "updated_at": "2026-11-20T09:41:00.250490",
+        "backup_price": 408.0,
         "aliases": [
             "Goodluck Defence",
             "Goodluck Defence And Aerospace Ltd"
@@ -5136,11 +5136,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/goodluck-green-energy-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.138954",
+        "updated_at": "2026-11-20T09:41:00.268503",
         "backup_price": 142.0,
         "aliases": [
             "Goodluck Green Energy",
@@ -5150,7 +5150,7 @@
     "greenzo-energy-india-limited-unlisted-shares": {
         "company": "Greenzo Energy India Limited Unlisted Shares",
         "slug": "greenzo-energy-india-limited-unlisted-shares",
-        "price": 685.0,
+        "price": 675.0,
         "market_cap": null,
         "sector": "Energy & Power",
         "industry": null,
@@ -5169,12 +5169,12 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/greenzo-energy-india-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.151567",
-        "backup_price": 685.0,
+        "updated_at": "2026-11-20T09:41:00.291122",
+        "backup_price": 675.0,
         "aliases": [
             "Greenzo Energy India Limited",
             "Greenzo Energy Pvt Ltd"
@@ -5206,7 +5206,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/gujarat-nre-coke-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043814"
+        "updated_at": "2026-11-20T09:41:00.117635"
     },
     "hcin-networks-private-limited": {
         "company": "HCIN Networks Limited",
@@ -5230,11 +5230,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "600",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/hcin-networks-private-limited",
-        "updated_at": "2026-11-19T21:58:29.174756",
+        "updated_at": "2026-11-20T09:41:00.327242",
         "backup_price": 175.0,
         "aliases": [
             "HCIN Network",
@@ -5263,11 +5263,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "10",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/hdfc-securities-limited-share-price-buy-sell-hdfc-securities-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.053059",
+        "updated_at": "2026-11-20T09:41:00.132086",
         "backup_price": 8250.0,
         "aliases": [
             "HDFC Securities",
@@ -5300,7 +5300,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/hella-india-lighting-share-price-buy-sell",
-        "updated_at": "2026-11-19T21:58:29.043822"
+        "updated_at": "2026-11-20T09:41:00.117646"
     },
     "hella-infra-market-share-price-buy-sell-online": {
         "company": "Hella Infra Market Limited",
@@ -5324,11 +5324,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/hella-infra-market-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.081701",
+        "updated_at": "2026-11-20T09:41:00.177325",
         "backup_price": 82500.0,
         "aliases": [
             "Hella Infra Market",
@@ -5357,11 +5357,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "50",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/hero-fincorp-limited-share-price-buy-sell-unlisted-shares-of-hero-fincorp",
-        "updated_at": "2026-11-19T21:58:29.076961",
+        "updated_at": "2026-11-20T09:41:00.169795",
         "backup_price": 925.0,
         "aliases": [
             "Hero Fincorp",
@@ -5423,11 +5423,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "25",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/hicks-thermometers-india-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043830"
+        "updated_at": "2026-11-20T09:41:00.117659"
     },
     "hindon-mercantile-share-price-buy-sell-online": {
         "company": "Hindon Mercantile Limited",
@@ -5451,11 +5451,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/hindon-mercantile-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.145708",
+        "updated_at": "2026-11-20T09:41:00.278903",
         "backup_price": 785.0,
         "aliases": [
             "Hindon Mercantile Ltd"
@@ -5483,11 +5483,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/hindusthan-engineering-industries-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043836"
+        "updated_at": "2026-11-20T09:41:00.117667"
     },
     "house-of-kieraya-furlenco-share-price-buy-sell-online": {
         "company": "House of Kieraya Limited (Furlenco)",
@@ -5511,15 +5511,15 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "250",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/house-of-kieraya-furlenco-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.111846",
+        "updated_at": "2026-11-20T09:41:00.225367",
         "aliases": [
             "House of Kieraya Limited"
         ],
-        "backup_price": 405.0
+        "backup_price": 395.0
     },
     "icl-fincorp-limited-unlisted-shares": {
         "company": "ICL Fincorp Limited Unlisted Shares",
@@ -5543,11 +5543,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/icl-fincorp-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.181527",
+        "updated_at": "2026-11-20T09:41:00.337747",
         "backup_price": 24.0,
         "aliases": [
             "ICL Fincorp",
@@ -5576,11 +5576,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/incred-holdings-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.080653",
+        "updated_at": "2026-11-20T09:41:00.175626",
         "backup_price": 148.0,
         "aliases": [
             "Incred Holdings",
@@ -5609,11 +5609,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/india-carbon-limited-share-price-buy-sell-unlisted-shares-of-india-carbon",
-        "updated_at": "2026-11-19T21:58:29.175837",
+        "updated_at": "2026-11-20T09:41:00.328930",
         "backup_price": 825.0,
         "aliases": [
             "India Carbon Limited",
@@ -5642,11 +5642,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/india-exposition-mart-ltd-unlisted-share",
-        "updated_at": "2026-11-19T21:58:29.043849"
+        "updated_at": "2026-11-20T09:41:00.117687"
     },
     "indian-potash-limited-unlisted-share-buy-sell-share-price": {
         "company": "Indian Potash Limited Unlisted Share",
@@ -5670,11 +5670,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "25",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/indian-potash-limited-unlisted-share-buy-sell-share-price",
-        "updated_at": "2026-11-19T21:58:29.085563",
+        "updated_at": "2026-11-20T09:41:00.183665",
         "backup_price": 2850.0,
         "aliases": [
             "Indian Potash",
@@ -5703,11 +5703,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "50",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/share-price-indofil-industries-limited-buy-sell-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.105989",
+        "updated_at": "2026-11-20T09:41:00.216072",
         "backup_price": 1725.0,
         "aliases": [
             "Indofil Industries",
@@ -5736,11 +5736,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-inkel-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.165953",
+        "updated_at": "2026-11-20T09:41:00.313102",
         "backup_price": 20.0,
         "aliases": [
             "Inkel Limited",
@@ -5769,11 +5769,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/inox-clean-energy-limited",
-        "updated_at": "2026-11-19T21:58:29.055521",
+        "updated_at": "2026-11-20T09:41:00.136052",
         "backup_price": 775.0,
         "aliases": [
             "Inox Clean Energy"
@@ -5801,11 +5801,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "25",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/inox-leasing-and-finance-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.069182",
+        "updated_at": "2026-11-20T09:41:00.157434",
         "backup_price": 19250.0,
         "aliases": [
             "Inox Leasing and Finance Limited"
@@ -5833,11 +5833,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/insolare-energy-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.147732",
+        "updated_at": "2026-11-20T09:41:00.282210",
         "backup_price": 172.0,
         "aliases": [
             "Insolare Energy",
@@ -5866,11 +5866,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/jai-mata-engineering-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043871"
+        "updated_at": "2026-11-20T09:41:00.117718"
     },
     "jsr-dynamics-share-price-buy-sell-online": {
         "company": "JSR Dynamics Limited",
@@ -5894,11 +5894,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/jsr-dynamics-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043873"
+        "updated_at": "2026-11-20T09:41:00.117722"
     },
     "jupiter-international-share-price-buy-sell-online": {
         "company": "Jupiter International Limited",
@@ -5922,11 +5922,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/jupiter-international-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.070261",
+        "updated_at": "2026-11-20T09:41:00.159169",
         "backup_price": 248.0,
         "aliases": [
             "Jupiter International"
@@ -5954,12 +5954,12 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "250",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/kannur-international-airport-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.129969",
-        "backup_price": 128.0,
+        "updated_at": "2026-11-20T09:41:00.253949",
+        "backup_price": 132.0,
         "aliases": [
             "Kannur International Airport",
             "Kannur International Airport Limited"
@@ -5987,11 +5987,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "2000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/klm-axiva-finvest-unlisted-shares-price",
-        "updated_at": "2026-11-19T21:58:29.163592",
+        "updated_at": "2026-11-20T09:41:00.309314",
         "backup_price": 16.0,
         "aliases": [
             "KLM Axiva Finvest",
@@ -6024,7 +6024,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-kurlon-enterprise-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.132111",
+        "updated_at": "2026-11-20T09:41:00.257341",
         "backup_price": 450.0,
         "aliases": [
             "Kurlon Ent",
@@ -6053,12 +6053,12 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/lava-international-limited-share-price-buy-sell-unlisted-shares-of-lava-international",
-        "updated_at": "2026-11-19T21:58:29.120832",
-        "backup_price": 48.0,
+        "updated_at": "2026-11-20T09:41:00.239525",
+        "backup_price": 46.0,
         "aliases": [
             "LAVA International Limited",
             "Lava"
@@ -6090,7 +6090,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/lords-mark-industries-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.137864",
+        "updated_at": "2026-11-20T09:41:00.266702",
         "backup_price": 74.0,
         "aliases": [
             "Lords Mark Industries"
@@ -6118,11 +6118,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/madbow-ventures-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.200290",
+        "updated_at": "2026-11-20T09:41:00.367187",
         "backup_price": 35.0,
         "aliases": [
             "Madbow",
@@ -6151,11 +6151,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-maharashtra-knowledge-corporation-mkcl-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.166970",
+        "updated_at": "2026-11-20T09:41:00.314763",
         "backup_price": 435.0,
         "aliases": [
             "MKCL",
@@ -6198,7 +6198,7 @@
     "buy-sell-share-price-manjushree-technopack-india-limited-unlisted-shares": {
         "company": "Alternicq Limited (Formerly Known as Manjushree Technopack India Limited) Unlisted Shares",
         "slug": "buy-sell-share-price-manjushree-technopack-india-limited-unlisted-shares",
-        "price": 795.0,
+        "price": 785.0,
         "market_cap": null,
         "sector": "Packaging",
         "industry": null,
@@ -6217,12 +6217,12 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-manjushree-technopack-india-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.086649",
-        "backup_price": 795.0,
+        "updated_at": "2026-11-20T09:41:00.189283",
+        "backup_price": 785.0,
         "aliases": [
             "Manjushree Technopack",
             "Manjushree Technopack India Limited",
@@ -6251,11 +6251,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/martin-and-harris-laboratories-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.168459",
+        "updated_at": "2026-11-20T09:41:00.317174",
         "backup_price": 875.0,
         "aliases": [
             "Martin and Harris Lab",
@@ -6284,11 +6284,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "5000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/matrix-gas-and-renewables-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.203507",
+        "updated_at": "2026-11-20T09:41:00.372235",
         "backup_price": 3.25,
         "aliases": [
             "Matrix Gas and Renewables",
@@ -6317,11 +6317,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/maverick-simulation-solutions-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.133154",
+        "updated_at": "2026-11-20T09:41:00.259004",
         "backup_price": 2775.0,
         "aliases": [
             "Maverick Simulation"
@@ -6349,11 +6349,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "10000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-latest-price-maxvalue-credits-and-investments-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.184733",
+        "updated_at": "2026-11-20T09:41:00.342685",
         "backup_price": 4.5,
         "aliases": [
             "Maxvalue Credits And Investments",
@@ -6382,11 +6382,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "10",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/merino-industries-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.116179",
+        "updated_at": "2026-11-20T09:41:00.230564",
         "backup_price": 2575.0,
         "aliases": [
             "Merino Industries",
@@ -6415,11 +6415,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/midland-microfin-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043929"
+        "updated_at": "2026-11-20T09:41:00.117774"
     },
     "mohindra-fasteners-limited-unlisted-shares": {
         "company": "Mohindra Fasteners Limited Unlisted Shares",
@@ -6443,11 +6443,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/mohindra-fasteners-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043932"
+        "updated_at": "2026-11-20T09:41:00.117778"
     },
     "national-e-repository-share-price-buy-sell-online": {
         "company": "National E-Repository Limited (NeRL)",
@@ -6471,11 +6471,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/national-e-repository-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.165310",
+        "updated_at": "2026-11-20T09:41:00.312035",
         "backup_price": 44.0,
         "aliases": [
             "National E Repository Limited - NeRL",
@@ -6504,11 +6504,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-essar-oil-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.044042",
+        "updated_at": "2026-11-20T09:41:00.117941",
         "backup_price": 1075.0,
         "aliases": [
             "Nayara Energy",
@@ -6537,11 +6537,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "250",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-ncl-alltek-seccolor-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.186999",
+        "updated_at": "2026-11-20T09:41:00.346137",
         "backup_price": 138.0,
         "aliases": [
             "NCL Buildtek",
@@ -6570,11 +6570,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "250",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/ncl-holdings-unlisted-share",
-        "updated_at": "2026-11-19T21:58:29.194408",
+        "updated_at": "2026-11-20T09:41:00.357842",
         "backup_price": 160.0,
         "aliases": [
             "NCL Holdings"
@@ -6606,7 +6606,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/nnt-developers-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.164666",
+        "updated_at": "2026-11-20T09:41:00.311008",
         "aliases": [
             "Nnt Developers Limited"
         ],
@@ -6638,7 +6638,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-otis-elevator-india-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.102237",
+        "updated_at": "2026-11-20T09:41:00.210066",
         "backup_price": 3850.0,
         "aliases": [
             "Otis Elevator",
@@ -6667,11 +6667,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/paymate-india-unlisted-shares-price",
-        "updated_at": "2026-11-19T21:58:29.043948"
+        "updated_at": "2026-11-20T09:41:00.117802"
     },
     "pharmeasy-share-price-buy-sell-online": {
         "company": "PharmEasy Unlisted Shares",
@@ -6695,11 +6695,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "10000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/pharmeasy-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.101146",
+        "updated_at": "2026-11-20T09:41:00.208374",
         "backup_price": 6.6,
         "aliases": [
             "API Holdings Ltd - Pharmeasy",
@@ -6732,7 +6732,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-philips-domestic-appliances-india-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.044034",
+        "updated_at": "2026-11-20T09:41:00.117929",
         "backup_price": 750.0
     },
     "buy-sell-share-price-philips-india-limited-unlisted-shares": {
@@ -6761,7 +6761,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-philips-india-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.091639",
+        "updated_at": "2026-11-20T09:41:00.193379",
         "backup_price": 1250.0,
         "aliases": [
             "Philips India",
@@ -6790,11 +6790,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "10",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/pnb-finance-industries-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043956"
+        "updated_at": "2026-11-20T09:41:00.117814"
     },
     "power-exchange-india-pxil-share-price-buy-sell-online": {
         "company": "Power Exchange India Limited (PXIL)",
@@ -6818,11 +6818,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/power-exchange-india-pxil-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.113653",
+        "updated_at": "2026-11-20T09:41:00.228188",
         "backup_price": 498.0,
         "aliases": [
             "PXIL",
@@ -6851,11 +6851,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "250",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-ramaraju-surgical-cotton-mills-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.185888",
+        "updated_at": "2026-11-20T09:41:00.344395",
         "backup_price": 275.0,
         "aliases": [
             "Ramaraju Surgical Cotton",
@@ -6888,7 +6888,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/rdc-concrete-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043964"
+        "updated_at": "2026-11-20T09:41:00.117826"
     },
     "buy-sell-share-price-resin-plastic-limited-unlisted-shares": {
         "company": "Resin & Plastic Limited Unlisted Shares",
@@ -6912,11 +6912,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-share-price-resin-plastic-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.170842",
+        "updated_at": "2026-11-20T09:41:00.320976",
         "backup_price": 675.0,
         "aliases": [
             "Resins and Plastic",
@@ -6949,7 +6949,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/ring-plus-aqua-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.156931",
+        "updated_at": "2026-11-20T09:41:00.297872",
         "backup_price": 695.0,
         "aliases": [
             "Ring Plus",
@@ -6978,11 +6978,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/rkb-global-limited",
-        "updated_at": "2026-11-19T21:58:29.043972"
+        "updated_at": "2026-11-20T09:41:00.117838"
     },
     "roop-telsonic-ultrasonix-limited-unlisted-shares": {
         "company": "Roop Telsonic Ultrasonix Limited Unlisted Shares",
@@ -7006,11 +7006,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "250",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/roop-telsonic-ultrasonix-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043974"
+        "updated_at": "2026-11-20T09:41:00.117842"
     },
     "roots-multiclean-limited-unlisted-share": {
         "company": "Roots Multiclean Limited Unlisted Share",
@@ -7034,11 +7034,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/roots-multiclean-limited-unlisted-share",
-        "updated_at": "2026-11-19T21:58:29.043977"
+        "updated_at": "2026-11-20T09:41:00.117846"
     },
     "royal-care-hospitals-unlisted-shares-buy-sell-online": {
         "company": "Royalcare Super Speciality Hospitals",
@@ -7062,11 +7062,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/royal-care-hospitals-unlisted-shares-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.112520",
+        "updated_at": "2026-11-20T09:41:00.226410",
         "backup_price": 155.0,
         "aliases": [
             "RoyalCare Super Speciality Hospital Limited",
@@ -7095,11 +7095,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/rrp-electronics-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.043982"
+        "updated_at": "2026-11-20T09:41:00.117854"
     },
     "rrp-s4e-innovation-unlisted-shares-price": {
         "company": "RRP S4E innovation Unlisted Shares Price",
@@ -7123,11 +7123,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "400",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/rrp-s4e-innovation-unlisted-shares-price",
-        "updated_at": "2026-11-19T21:58:29.193313",
+        "updated_at": "2026-11-20T09:41:00.356130",
         "backup_price": 138.0,
         "aliases": [
             "RRP S4E Innovation",
@@ -7160,7 +7160,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/rydak-syndicate-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043988"
+        "updated_at": "2026-11-20T09:41:00.117861"
     },
     "s3v-vascular-technologies-share-price-buy-sell-online": {
         "company": "S3V Vascular Technologies Limited",
@@ -7184,11 +7184,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/s3v-vascular-technologies-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.146708",
+        "updated_at": "2026-11-20T09:41:00.280559",
         "backup_price": 545.0,
         "aliases": [
             "S3V Vascular"
@@ -7245,11 +7245,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/sigachi-laboratories-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.043993"
+        "updated_at": "2026-11-20T09:41:00.117869"
     },
     "signify-innovations-previously-phillips-lighting-india-unlisted-shares": {
         "company": "Signify Innovations (Previously Phillips Lighting) India Limited Unlisted Shares",
@@ -7273,11 +7273,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "50",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/signify-innovations-previously-phillips-lighting-india-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.098749",
+        "updated_at": "2026-11-20T09:41:00.204651",
         "backup_price": 975.0,
         "aliases": [
             "Signify Innovations",
@@ -7338,11 +7338,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/spray-engineering-devices-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.180441",
+        "updated_at": "2026-11-20T09:41:00.336011",
         "backup_price": 78.0,
         "aliases": [
             "Spray Engineering Devices",
@@ -7371,11 +7371,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/sterlite-electric-limited-formerly-sterlite-power-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.089236",
+        "updated_at": "2026-11-20T09:41:00.185487",
         "backup_price": 525.0,
         "aliases": [
             "Sterlite Electric Limited",
@@ -7404,11 +7404,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/sterlite-grid-5-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.044004"
+        "updated_at": "2026-11-20T09:41:00.117885"
     },
     "sunday-proptech-share-price-buy-sell-online": {
         "company": "Sunday Proptech Limited",
@@ -7432,11 +7432,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "5000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/sunday-proptech-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.125975",
+        "updated_at": "2026-11-20T09:41:00.247692",
         "backup_price": 7.95,
         "aliases": [
             "Sunday Proptech Limited - OYO Assets"
@@ -7464,11 +7464,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "250",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/sun-drops-energia-private-limited",
-        "updated_at": "2026-11-19T21:58:29.117349",
+        "updated_at": "2026-11-20T09:41:00.234001",
         "backup_price": 328.0,
         "aliases": [
             "Sun Drops Energia Limited"
@@ -7496,11 +7496,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/tea-time-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.044012"
+        "updated_at": "2026-11-20T09:41:00.117897"
     },
     "ticker-limited-share-price-buy-sell-online": {
         "company": "Ticker Limited",
@@ -7524,11 +7524,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "10000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/ticker-limited-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.104997",
+        "updated_at": "2026-11-20T09:41:00.214473",
         "backup_price": 23.5,
         "aliases": [
             "Ticker Ltd"
@@ -7556,11 +7556,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/transline-technologies-share-price-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.135222",
+        "updated_at": "2026-11-20T09:41:00.262366",
         "backup_price": 162.0,
         "aliases": [
             "Transline Technologies"
@@ -7588,11 +7588,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "25",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/buy-sell-latest-price-trl-krosaki-refractories-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.044020"
+        "updated_at": "2026-11-20T09:41:00.117909"
     },
     "urban-tots-unlisted-shares": {
         "company": "Urban Tots Unlisted Shares",
@@ -7616,11 +7616,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/urban-tots-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.160797",
+        "updated_at": "2026-11-20T09:41:00.304835",
         "backup_price": 78.0,
         "aliases": [
             "Urban Tots",
@@ -7649,11 +7649,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/usha-shriram-unlisted-share",
-        "updated_at": "2026-11-19T21:58:29.044026"
+        "updated_at": "2026-11-20T09:41:00.117917"
     },
     "utkarsh-micro-financecore-invest-unlisted-shares": {
         "company": "UTKARSH COREINVEST LIMITED",
@@ -7677,11 +7677,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/utkarsh-micro-financecore-invest-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.144111",
+        "updated_at": "2026-11-20T09:41:00.276406",
         "backup_price": 125.0,
         "aliases": [
             "Utkarsh Core Invest",
@@ -7710,11 +7710,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/veeda-clinical-research-unlisted-shares-buy-sell-online",
-        "updated_at": "2026-11-19T21:58:29.117990",
+        "updated_at": "2026-11-20T09:41:00.235056",
         "backup_price": 428.0,
         "aliases": [
             "Veeda Clinical Research Limited (CRO)"
@@ -7746,7 +7746,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/xerox-india-limited-unlisted-shares",
-        "updated_at": "2026-11-19T21:58:29.044036"
+        "updated_at": "2026-11-20T09:41:00.117933"
     },
     "xtranet-technologies-share-price-buy-sell-online": {
         "company": "XtraNet Technologies Pvt. Ltd.",
@@ -7802,11 +7802,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/zak-venture-ltd",
-        "updated_at": "2026-11-19T21:58:29.196491",
+        "updated_at": "2026-11-20T09:41:00.361120",
         "backup_price": 165.0,
         "aliases": [
             "Zak Venture"
@@ -7928,7 +7928,7 @@
         },
         "source": "sharescart",
         "url": null,
-        "updated_at": "2026-11-19T21:58:29.054123",
+        "updated_at": "2026-11-20T09:41:00.133829",
         "backup_price": 574410.0
     },
     "indusind-general-insurance-company-limited": {
@@ -7957,7 +7957,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/indusind-general-insurance-company-limited",
-        "updated_at": "2026-11-19T21:58:29.072772",
+        "updated_at": "2026-11-20T09:41:00.163198",
         "backup_price": 550.0,
         "aliases": [
             "IndusInd General Insurance",
@@ -7993,7 +7993,7 @@
         },
         "source": "sharescart",
         "url": null,
-        "updated_at": "2026-11-19T21:58:29.084923",
+        "updated_at": "2026-11-20T09:41:00.182591",
         "backup_price": 6050.0
     },
     "elcid-investments-limited": {
@@ -8025,7 +8025,7 @@
         },
         "source": "sharescart",
         "url": null,
-        "updated_at": "2026-11-19T21:58:29.092721",
+        "updated_at": "2026-11-20T09:41:00.195047",
         "backup_price": 350000.0
     },
     "schneider-electric-president-system-limited": {
@@ -8088,7 +8088,7 @@
         },
         "source": "sharescart",
         "url": null,
-        "updated_at": "2026-11-19T21:58:29.136221",
+        "updated_at": "2026-11-20T09:41:00.264008",
         "backup_price": 650.0
     },
     "policyxcom-insurance-web-aggregator-pvt-ltd": {
@@ -8120,7 +8120,7 @@
         },
         "source": "sharescart",
         "url": null,
-        "updated_at": "2026-11-19T21:58:29.173021",
+        "updated_at": "2026-11-20T09:41:00.324428",
         "backup_price": 63.0
     },
     "silverline-technologies-limited": {
@@ -8152,7 +8152,7 @@
         },
         "source": "sharescart",
         "url": null,
-        "updated_at": "2026-11-19T21:58:29.197487",
+        "updated_at": "2026-11-20T09:41:00.362749",
         "backup_price": 12.0
     },
     "galaxeye-space-solutions-private-limited": {
@@ -8177,11 +8177,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "50",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/galaxeye-space-solutions-private-limited",
-        "updated_at": "2026-11-19T21:58:29.043460"
+        "updated_at": "2026-11-20T09:41:00.117106"
     },
     "63sats-cybertech-limited": {
         "company": "63sats Cybertech Limited",
@@ -8205,11 +8205,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "10000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/63sats-cybertech-limited",
-        "updated_at": "2026-11-19T21:58:29.120195",
+        "updated_at": "2026-11-20T09:41:00.238522",
         "backup_price": 26.5
     },
     "airlife-gases-private-limited": {
@@ -8234,11 +8234,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/airlife-gases-private-limited",
-        "updated_at": "2026-11-19T21:58:29.043358"
+        "updated_at": "2026-11-20T09:41:00.116958"
     },
     "infobay-ai-limited": {
         "company": "Infobay Ai Limited",
@@ -8262,11 +8262,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "5",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/infobay-ai-limited",
-        "updated_at": "2026-11-19T21:58:29.149871",
+        "updated_at": "2026-11-20T09:41:00.286229",
         "backup_price": 420000.0
     },
     "krasny-defence-technologies-limited": {
@@ -8319,11 +8319,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/prabhudas-lilladher-advisory-services-limited",
-        "updated_at": "2026-11-19T21:58:29.043601"
+        "updated_at": "2026-11-20T09:41:00.117325"
     },
     "aegeus-technologies-limited": {
         "company": "Aegeus Technologies Limited",
@@ -8372,11 +8372,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/eastern-investment-limited",
-        "updated_at": "2026-11-19T21:58:29.043436"
+        "updated_at": "2026-11-20T09:41:00.117071"
     },
     "recyclekro": {
         "company": "Evergreen Recyclekaro (India) Limited",
@@ -8400,11 +8400,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/recyclekro",
-        "updated_at": "2026-11-19T21:58:29.043452"
+        "updated_at": "2026-11-20T09:41:00.117094"
     },
     "inox-neo-energies-limited": {
         "company": "Inox Neo Energies Limited",
@@ -8428,11 +8428,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/inox-neo-energies-limited",
-        "updated_at": "2026-11-19T21:58:29.043520"
+        "updated_at": "2026-11-20T09:41:00.117194"
     },
     "invade-agro-limited": {
         "company": "Invade Agro Limited",
@@ -8456,11 +8456,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/invade-agro-limited",
-        "updated_at": "2026-11-19T21:58:29.043529"
+        "updated_at": "2026-11-20T09:41:00.117206"
     },
     "invade-mill-limited": {
         "company": "Invade Mill Limited",
@@ -8484,11 +8484,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "5000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/invade-mill-limited",
-        "updated_at": "2026-11-19T21:58:29.043532"
+        "updated_at": "2026-11-20T09:41:00.117210"
     },
     "philips-domestic-appliances-india-unlisted-shares": {
         "company": "Philips Domestic Appliances India Unlisted Shares",
@@ -8571,11 +8571,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "50",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/incred-capital-financial-services-limited",
-        "updated_at": "2026-11-19T21:58:29.043504"
+        "updated_at": "2026-11-20T09:41:00.117170"
     },
     "mtandt-rentals-limited": {
         "company": "MTAndT Rentals Limited",
@@ -8599,11 +8599,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/mtandt-rentals-limited",
-        "updated_at": "2026-11-19T21:58:29.043574"
+        "updated_at": "2026-11-20T09:41:00.117286"
     },
     "cosmic-pv-power-limited": {
         "company": "Cosmic PV Power Limited",
@@ -8627,11 +8627,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/cosmic-pv-power-limited",
-        "updated_at": "2026-11-19T21:58:29.043417"
+        "updated_at": "2026-11-20T09:41:00.117044"
     },
     "india-gold-metaverse-private-limited": {
         "company": "India Gold Metaverse Limited",
@@ -8655,11 +8655,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "5000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/india-gold-metaverse-private-limited",
-        "updated_at": "2026-11-19T21:58:29.119555",
+        "updated_at": "2026-11-20T09:41:00.237479",
         "backup_price": 26.5,
         "aliases": [
             "India Gold Metaverse Private Limited"
@@ -8687,11 +8687,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/raydean-enterprises-limited",
-        "updated_at": "2026-11-19T21:58:29.043617"
+        "updated_at": "2026-11-20T09:41:00.117348"
     },
     "muthoot-fincorp-limited": {
         "company": "Muthoot Fincorp Limited",
@@ -8715,11 +8715,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "250",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/muthoot-fincorp-limited",
-        "updated_at": "2026-11-19T21:58:29.066352",
+        "updated_at": "2026-11-20T09:41:00.153036",
         "backup_price": 234.0
     },
     "shree-associates-infraventures-private-limited": {
@@ -8744,11 +8744,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/shree-associates-infraventures-private-limited",
-        "updated_at": "2026-11-19T21:58:29.043647"
+        "updated_at": "2026-11-20T09:41:00.117391"
     },
     "shreni-shares-limited": {
         "company": "Shreni Shares Limited",
@@ -8772,11 +8772,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/shreni-shares-limited",
-        "updated_at": "2026-11-19T21:58:29.043649"
+        "updated_at": "2026-11-20T09:41:00.117395"
     },
     "yogiji-digi-limited": {
         "company": "YOGIJI DIGI LIMITED",
@@ -8800,11 +8800,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/yogiji-digi-limited",
-        "updated_at": "2026-11-19T21:58:29.043697"
+        "updated_at": "2026-11-20T09:41:00.117464"
     },
     "anand-i-power-limited": {
         "company": "Anand I Power Limited",
@@ -8831,7 +8831,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/anand-i-power-limited",
-        "updated_at": "2026-11-19T21:58:29.043368"
+        "updated_at": "2026-11-20T09:41:00.116973"
     },
     "manipal-housing-finance-syndicate-limited": {
         "company": "Manipal Housing Finance Syndicate Limited",
@@ -8855,11 +8855,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/manipal-housing-finance-syndicate-limited",
-        "updated_at": "2026-11-19T21:58:29.043561"
+        "updated_at": "2026-11-20T09:41:00.117266"
     },
     "rite-water-solutions-india-limited": {
         "company": "Rite Water Solutions (India) Limited",
@@ -8883,11 +8883,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/rite-water-solutions-india-limited",
-        "updated_at": "2026-11-19T21:58:29.043628"
+        "updated_at": "2026-11-20T09:41:00.117364"
     },
     "vivriti-next-limited": {
         "company": "Vivriti Next Limited",
@@ -8911,11 +8911,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/vivriti-next-limited",
-        "updated_at": "2026-11-19T21:58:29.043691"
+        "updated_at": "2026-11-20T09:41:00.117457"
     },
     "abans-investment-managers-limited": {
         "company": "Abans Investment Managers Limited",
@@ -8939,11 +8939,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/abans-investment-managers-limited",
-        "updated_at": "2026-11-19T21:58:29.043355"
+        "updated_at": "2026-11-20T09:41:00.116954"
     },
     "eastern-investments-limited-eil-unlisted-shares": {
         "company": "Eastern Investments Limited (EIL) Unlisted Shares",
@@ -8992,11 +8992,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "500",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/shaya-polymers-limited",
-        "updated_at": "2026-11-19T21:58:29.043644"
+        "updated_at": "2026-11-20T09:41:00.117387"
     },
     "annu-projects-limited": {
         "company": "Annu Projects Limited",
@@ -9050,7 +9050,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/ecopmin-technologies-private-limited",
-        "updated_at": "2026-11-19T21:58:29.043441"
+        "updated_at": "2026-11-20T09:41:00.117079"
     },
     "sadbhav-futuretech-limited": {
         "company": "Sadbhav Futuretech Limited",
@@ -9074,11 +9074,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/sadbhav-futuretech-limited",
-        "updated_at": "2026-11-19T21:58:29.043631"
+        "updated_at": "2026-11-20T09:41:00.117368"
     },
     "tesla-power-equipments-and-projects-limited": {
         "company": "Tesla Power Equipments And Projects Limited",
@@ -9101,11 +9101,11 @@
         "description": null,
         "documents": [],
         "extra_data": {
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/tesla-power-equipments-and-projects-limited",
-        "updated_at": "2026-11-19T21:58:29.043675"
+        "updated_at": "2026-11-20T09:41:00.117433"
     },
     "samicron-precision-technologies-private-limited": {
         "company": "Samicron Precision Technologies Private Limited",
@@ -9132,7 +9132,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/samicron-precision-technologies-private-limited",
-        "updated_at": "2026-11-19T21:58:29.043633"
+        "updated_at": "2026-11-20T09:41:00.117371"
     },
     "zed-engines-india-limited": {
         "company": "Zedengines India Limited",
@@ -9181,11 +9181,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "1000",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/goldi-solar-limited",
-        "updated_at": "2026-11-19T21:58:29.043468"
+        "updated_at": "2026-11-20T09:41:00.117118"
     },
     "growest-industries-limited": {
         "company": "Growest Industries Limited",
@@ -9272,7 +9272,7 @@
         },
         "source": "sharescart",
         "url": null,
-        "updated_at": "2026-11-19T21:58:29.103867"
+        "updated_at": "2026-11-20T09:41:00.212697"
     },
     "navitas-green-solutions-pvt-ltd": {
         "company": "Navitas Green Solutions Pvt Ltd.",
@@ -9299,7 +9299,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/navitas-green-solutions-pvt-ltd",
-        "updated_at": "2026-11-19T21:58:29.043580"
+        "updated_at": "2026-11-20T09:41:00.117294"
     },
     "prisma-global-limited-prism-ai": {
         "company": "Prisma Global Limited",
@@ -9323,11 +9323,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/prisma-global-limited-prism-ai",
-        "updated_at": "2026-11-19T21:58:29.043607"
+        "updated_at": "2026-11-20T09:41:00.117333"
     },
     "zorko-limited": {
         "company": "Zorko Limited",
@@ -9358,7 +9358,7 @@
         },
         "source": "sharescart",
         "url": null,
-        "updated_at": "2026-11-19T21:58:29.192672"
+        "updated_at": "2026-11-20T09:41:00.355110"
     },
     "omega-seiki-private-limited": {
         "company": "Omega Seiki Limited",
@@ -9382,11 +9382,11 @@
         "documents": [],
         "extra_data": {
             "Lot Size": "100",
-            "As Of": "2026-11-19"
+            "As Of": "2026-11-20"
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/omega-seiki-private-limited",
-        "updated_at": "2026-11-19T21:58:29.043588"
+        "updated_at": "2026-11-20T09:41:00.117306"
     },
     "inox-air-products-limited": {
         "company": "Inox Air Products Limited",
@@ -9413,7 +9413,7 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/inox-air-products-limited",
-        "updated_at": "2026-11-19T21:58:29.043518"
+        "updated_at": "2026-11-20T09:41:00.117190"
     },
     "sagar-defence-engineering-ltd": {
         "company": "Sagar Defence Engineering Ltd",
@@ -9442,7 +9442,7 @@
         },
         "source": "sharescart",
         "url": null,
-        "updated_at": "2026-11-19T21:58:29.204606"
+        "updated_at": "2026-11-20T09:41:00.373962"
     },
     "magnum-management-and-services-limited": {
         "company": "Magnum Management And Services Limited",
@@ -9496,7 +9496,7 @@
         },
         "source": "wwipl",
         "url": "https://wwipl.com/unlisted-shares/equentis-wealth-advisory-services-share-price",
-        "updated_at": "2026-11-19T21:58:29.205277"
+        "updated_at": "2026-11-20T09:41:00.375037"
     },
     "dfm-foods-limited": {
         "company": "DFM Foods Limited",
@@ -9523,6 +9523,6 @@
         },
         "source": "unlistedzone",
         "url": "https://unlistedzone.com/shares/dfm-foods-limited",
-        "updated_at": "2026-11-19T21:58:29.043431"
+        "updated_at": "2026-11-20T09:41:00.117063"
     }
 }
